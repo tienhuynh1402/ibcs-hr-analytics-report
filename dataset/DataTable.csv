@@ -1,0 +1,1081 @@
+EmployeeID,HireDate,TerminationDate,Department,JobRole,EmploymentType,Gender,AgeGroup,Education,JobSatisfaction,Performance,WorkLifeBalance,Salary
+E03741,2024-02-18,,Finance,HR Specialist,Contractor,Male,Below 20,Below College,Low,Outstanding,Bad,132000.0
+E04282,2024-09-05,,Finance,IT Analyst,Full-time,Male,40-50,Master,Very High,Excellent,Bad,75000.0
+E01248,2021-01-28,,Finance,IT Analyst,Contractor,Female,60+,Bachelor,Medium,Excellent,Bad,67000.0
+E03912,2024-02-01,2025-12-30,Finance,Sales Executive,Contractor,Female,50-60,Doctor,High,Excellent,Good,81000.0
+E01516,2022-11-19,,Finance,Finance Director,Full-time,Female,60+,College,Low,Excellent,Best,114000.0
+E00508,2020-01-23,,Finance,Finance Director,Full-time,Male,40-50,Below College,Low,Excellent,Bad,108000.0
+E02814,2023-03-01,2023-08-24,Finance,Research Scientist,Full-time,Female,60+,Below College,High,Outstanding,Best,133000.0
+E00271,2020-01-07,2022-10-29,Finance,HR Specialist,Contractor,Male,Below 20,Doctor,Very High,Good,Good,89000.0
+E03586,2023-01-08,,Finance,Research Scientist,Contractor,Female,30-40,Doctor,Low,Low,Good,61000.0
+E01077,2021-01-23,2025-12-23,Finance,Research Scientist,Full-time,Female,20-30,Below College,High,Excellent,Good,76000.0
+E03648,2024-12-16,2025-07-24,Finance,Finance Director,Contractor,Female,50-60,College,Low,Low,Best,68000.0
+E00413,2020-12-15,,Finance,Sales Executive,Contractor,Other,20-30,Bachelor,High,Good,Better,75000.0
+E01595,2022-07-30,2023-08-18,Finance,Sales Executive,Contractor,Male,60+,College,Low,Low,Better,113000.0
+E202500165,2025-04-29,,Finance,IT Analyst,Contractor,Male,20-30,Below College,Medium,Outstanding,Bad,69072.15162737739
+E202500241,2025-06-28,,Finance,Research Scientist,Full-time,Female,20-30,Doctor,High,Outstanding,Bad,120081.8659670621
+E04355,2024-08-06,,Finance,Research Scientist,Full-time,Male,50-60,Bachelor,High,Good,Good,100000.0
+E02514,2023-11-21,,Finance,Sales Executive,Full-time,Male,40-50,Bachelor,Medium,Outstanding,Bad,135000.0
+E03905,2024-03-23,,Finance,Research Scientist,Full-time,Male,40-50,Bachelor,Very High,Low,Good,98000.0
+E04798,2024-08-13,,Finance,Research Scientist,Full-time,Male,20-30,Doctor,Medium,Low,Better,124000.0
+E01926,2022-11-02,,Finance,Research Scientist,Full-time,Female,60+,Bachelor,Medium,Outstanding,Bad,138000.0
+E00487,2020-10-29,,Finance,Manager,Contractor,Female,30-40,College,Medium,Low,Bad,132000.0
+E02669,2023-10-15,,Finance,Finance Director,Contractor,Male,40-50,College,High,Outstanding,Bad,99000.0
+E04539,2024-12-18,,Finance,Sales Executive,Contractor,Female,30-40,Master,High,Outstanding,Better,65000.0
+E00725,2021-06-09,2022-02-22,Finance,Manager,Contractor,Male,50-60,College,High,Good,Bad,62000.0
+E00729,2021-07-30,2021-10-19,Finance,Manager,Full-time,Female,50-60,Doctor,Low,Excellent,Bad,96000.0
+E00224,2020-06-30,,Finance,IT Analyst,Full-time,Female,Below 20,College,Very High,Outstanding,Bad,108000.0
+E02084,2022-11-22,,Finance,Finance Director,Full-time,Male,60+,College,Very High,Excellent,Better,98000.0
+E01258,2021-08-29,,Finance,Sales Executive,Full-time,Male,60+,Master,High,Excellent,Best,63000.0
+E01194,2021-06-18,2023-12-09,Finance,Sales Executive,Full-time,Male,30-40,College,High,Excellent,Better,124000.0
+E00468,2020-12-21,,Finance,Manager,Contractor,Male,30-40,Bachelor,Medium,Good,Good,84000.0
+E00519,2020-11-01,,Finance,Manager,Contractor,Other,30-40,Master,Low,Low,Best,104000.0
+E02578,2023-03-28,,Finance,Finance Director,Contractor,Male,Below 20,Doctor,Very High,Outstanding,Good,133000.0
+E01442,2022-03-22,2022-08-21,Finance,HR Specialist,Contractor,Female,20-30,Bachelor,High,Outstanding,Bad,119000.0
+E02538,2023-09-26,,Finance,Sales Executive,Contractor,Female,30-40,Doctor,Medium,Outstanding,Best,103000.0
+E03951,2024-03-24,2024-12-15,Finance,HR Specialist,Full-time,Female,30-40,Bachelor,Low,Low,Good,124000.0
+E00134,2020-12-20,,Finance,HR Specialist,Full-time,Female,Below 20,Master,High,Good,Best,125000.0
+E01617,2022-11-11,2024-01-14,Finance,Sales Executive,Full-time,Other,30-40,Bachelor,Very High,Low,Good,65000.0
+E02510,2023-02-23,,Finance,Sales Executive,Full-time,Male,60+,Doctor,Low,Low,Bad,120000.0
+E02118,2022-01-09,,Finance,Research Scientist,Full-time,Male,30-40,College,Medium,Excellent,Good,70000.0
+E04174,2024-09-09,,Finance,Manager,Full-time,Male,60+,College,Medium,Low,Best,125000.0
+E01315,2021-06-01,2022-08-15,Finance,Sales Executive,Contractor,Female,Below 20,College,Very High,Low,Best,126000.0
+E04312,2024-08-08,2025-08-20,Finance,Sales Executive,Contractor,Other,30-40,Below College,High,Good,Good,125000.0
+E04245,2024-01-24,2025-07-12,Finance,IT Analyst,Full-time,Female,60+,College,High,Good,Better,87000.0
+E00811,2021-06-01,,Finance,Manager,Contractor,Other,50-60,College,Medium,Low,Good,100000.0
+E04122,2024-07-24,,Finance,Research Scientist,Full-time,Male,20-30,Bachelor,Low,Outstanding,Better,128000.0
+E01181,2021-12-15,2023-05-22,Finance,Sales Executive,Contractor,Other,50-60,Doctor,Very High,Good,Good,127000.0
+E00427,2020-01-12,2021-07-05,Finance,Sales Executive,Contractor,Female,20-30,Bachelor,Very High,Low,Bad,113000.0
+E02653,2023-11-28,,Finance,IT Analyst,Full-time,Female,30-40,Below College,Low,Good,Good,114000.0
+E04097,2024-02-13,,Finance,HR Specialist,Contractor,Female,30-40,College,Very High,Low,Better,139000.0
+E03413,2023-06-19,,Finance,IT Analyst,Full-time,Female,40-50,Doctor,Low,Low,Best,120000.0
+E03589,2023-12-26,,Finance,Finance Director,Contractor,Female,60+,Below College,Medium,Excellent,Best,84000.0
+E04318,2024-01-17,,Finance,IT Analyst,Contractor,Female,30-40,Below College,Very High,Low,Best,139000.0
+E02595,2023-10-13,,Finance,Manager,Full-time,Female,60+,Master,Low,Low,Best,127000.0
+E202500273,2025-12-05,,Finance,HR Specialist,Full-time,Female,Below 20,Below College,High,Outstanding,Best,144510.18603326264
+E03837,2024-07-13,,Finance,Research Scientist,Contractor,Male,Below 20,Bachelor,High,Outstanding,Good,111000.0
+E00327,2020-03-06,,Finance,Research Scientist,Contractor,Male,60+,College,Low,Good,Good,118000.0
+E03333,2023-11-13,,Finance,Finance Director,Contractor,Female,40-50,Bachelor,Medium,Good,Bad,64000.0
+E01295,2021-05-27,,Finance,Sales Executive,Full-time,Male,20-30,Bachelor,Low,Low,Best,96000.0
+E00918,2021-01-14,2023-04-20,Finance,Research Scientist,Full-time,Other,30-40,Bachelor,Very High,Good,Best,127000.0
+E02591,2023-02-15,2024-08-28,Finance,Research Scientist,Full-time,Male,30-40,Doctor,Very High,Low,Better,75000.0
+E02201,2022-06-10,,Finance,IT Analyst,Contractor,Other,Below 20,Bachelor,Medium,Good,Better,133000.0
+E02631,2023-03-08,,Finance,Research Scientist,Contractor,Male,60+,Below College,Medium,Excellent,Best,66000.0
+E00255,2020-08-23,2021-09-10,Finance,Finance Director,Full-time,Female,20-30,Bachelor,High,Good,Good,95000.0
+E02680,2023-03-07,2024-01-26,Finance,IT Analyst,Contractor,Male,30-40,Master,Very High,Outstanding,Bad,78000.0
+E202500354,2025-05-12,,Finance,Finance Director,Contractor,Female,Below 20,Master,Very High,Low,Better,129563.18645790068
+E02674,2023-07-11,,Finance,IT Analyst,Contractor,Female,60+,Below College,High,Excellent,Bad,83000.0
+E03595,2023-12-28,2025-11-18,Finance,HR Specialist,Contractor,Male,20-30,Bachelor,Low,Outstanding,Better,130000.0
+E03061,2023-11-02,2025-07-18,Finance,IT Analyst,Full-time,Female,Below 20,Bachelor,Very High,Good,Better,69000.0
+E02020,2022-09-18,,Finance,Sales Executive,Contractor,Male,30-40,College,Medium,Excellent,Good,99000.0
+E02844,2023-08-01,,Finance,Finance Director,Full-time,Other,50-60,Master,High,Outstanding,Best,105000.0
+E02498,2023-02-16,,Finance,Finance Director,Contractor,Male,Below 20,Bachelor,High,Excellent,Better,133000.0
+E02114,2022-05-02,,Finance,HR Specialist,Contractor,Male,50-60,College,High,Good,Better,71000.0
+E03509,2023-09-15,,Finance,HR Specialist,Contractor,Male,20-30,Bachelor,High,Low,Best,95000.0
+E03633,2024-11-08,,Finance,HR Specialist,Full-time,Female,60+,Bachelor,Low,Outstanding,Better,123000.0
+E03908,2024-01-02,,Finance,Sales Executive,Full-time,Female,20-30,Master,Very High,Good,Bad,113000.0
+E01105,2021-07-10,2022-04-03,Finance,Sales Executive,Contractor,Other,30-40,College,Very High,Outstanding,Bad,91000.0
+E202500071,2025-08-27,,Finance,HR Specialist,Contractor,Female,20-30,Master,High,Low,Good,113768.80608634466
+E03562,2023-10-28,2025-03-14,Finance,Sales Executive,Contractor,Male,40-50,Master,Very High,Low,Good,71000.0
+E202500196,2025-06-06,,Finance,HR Specialist,Full-time,Male,60+,Doctor,Very High,Outstanding,Good,81149.86284803292
+E00582,2020-08-17,,Finance,IT Analyst,Contractor,Other,Below 20,Master,Very High,Good,Best,73000.0
+E01321,2021-03-07,,Finance,Finance Director,Full-time,Female,Below 20,Doctor,Medium,Outstanding,Good,114000.0
+E00171,2020-06-19,2025-09-04,Finance,HR Specialist,Contractor,Male,30-40,Doctor,High,Good,Best,102000.0
+E01932,2022-07-20,2024-08-27,Finance,Finance Director,Full-time,Male,30-40,College,Medium,Outstanding,Better,100000.0
+E01574,2022-11-11,2024-04-26,Finance,IT Analyst,Contractor,Male,20-30,Doctor,Low,Outstanding,Bad,105000.0
+E01580,2022-07-24,,Finance,Manager,Contractor,Male,40-50,Doctor,Low,Low,Bad,135000.0
+E02021,2022-10-27,,Finance,HR Specialist,Contractor,Other,30-40,Below College,Low,Good,Good,104000.0
+E03012,2023-10-09,,Finance,HR Specialist,Contractor,Female,Below 20,Doctor,Medium,Outstanding,Better,70000.0
+E03368,2023-07-04,2024-07-20,Finance,HR Specialist,Full-time,Female,Below 20,Master,Medium,Outstanding,Bad,65000.0
+E00802,2021-11-23,,Finance,Finance Director,Full-time,Female,Below 20,College,Very High,Good,Best,125000.0
+E02540,2023-04-15,,Finance,Finance Director,Full-time,Male,20-30,Master,Medium,Excellent,Best,104000.0
+E04647,2024-11-04,2025-05-11,Finance,HR Specialist,Full-time,Male,40-50,Master,Low,Good,Best,114000.0
+E03666,2024-04-29,2024-10-19,Finance,Manager,Full-time,Female,20-30,Bachelor,High,Good,Good,122000.0
+E02271,2022-06-20,2025-04-03,Finance,Research Scientist,Contractor,Female,60+,College,High,Outstanding,Best,70000.0
+E00618,2021-07-07,,Finance,Finance Director,Full-time,Female,40-50,Below College,Very High,Excellent,Good,119000.0
+E02278,2022-06-12,2024-12-06,Finance,HR Specialist,Full-time,Male,60+,Doctor,Low,Excellent,Bad,67000.0
+E01723,2022-09-21,,Finance,Finance Director,Full-time,Female,50-60,Doctor,Low,Outstanding,Better,111000.0
+E01089,2021-03-27,2025-07-25,Finance,Sales Executive,Contractor,Other,50-60,Bachelor,Medium,Excellent,Bad,131000.0
+E01519,2022-01-20,2025-10-23,Finance,Research Scientist,Contractor,Female,60+,Doctor,Very High,Excellent,Good,124000.0
+E01511,2022-03-24,,Finance,Research Scientist,Contractor,Male,Below 20,Bachelor,High,Outstanding,Better,130000.0
+E03862,2024-07-24,,Finance,Manager,Full-time,Male,60+,Doctor,Very High,Low,Best,121000.0
+E02062,2022-08-18,,Finance,Finance Director,Contractor,Male,40-50,College,Low,Outstanding,Bad,69000.0
+E00054,2020-01-14,,Finance,Manager,Full-time,Male,60+,Bachelor,Low,Good,Bad,106000.0
+E01860,2022-04-22,2025-10-28,Finance,Finance Director,Contractor,Male,20-30,Doctor,Medium,Outstanding,Bad,130000.0
+E04106,2024-09-02,,Finance,IT Analyst,Contractor,Male,40-50,Below College,Low,Good,Best,74000.0
+E03302,2023-09-26,2025-02-23,Finance,Manager,Full-time,Other,20-30,Master,Very High,Low,Bad,127000.0
+E00919,2021-11-26,2025-06-06,Finance,Research Scientist,Full-time,Male,20-30,Master,Medium,Outstanding,Good,64000.0
+E01288,2021-03-25,,Finance,IT Analyst,Full-time,Female,30-40,Below College,Very High,Excellent,Bad,79000.0
+E04395,2024-05-16,,Finance,IT Analyst,Full-time,Other,40-50,Bachelor,Very High,Outstanding,Better,77000.0
+E01989,2022-05-31,2024-08-29,Finance,IT Analyst,Full-time,Female,50-60,Doctor,Medium,Low,Good,69000.0
+E02922,2023-07-10,,Finance,Finance Director,Contractor,Male,40-50,College,Low,Outstanding,Better,78000.0
+E04436,2024-07-09,,Finance,HR Specialist,Full-time,Female,Below 20,Bachelor,Low,Low,Bad,65000.0
+E01946,2022-06-10,,Finance,IT Analyst,Contractor,Male,30-40,Master,Very High,Good,Bad,125000.0
+E02756,2023-06-30,,Finance,Manager,Full-time,Female,50-60,Doctor,Low,Low,Better,95000.0
+E04523,2024-11-04,2025-07-03,Finance,Manager,Full-time,Male,30-40,College,High,Outstanding,Best,70000.0
+E04274,2024-07-30,,Finance,IT Analyst,Contractor,Male,60+,Master,High,Outstanding,Best,91000.0
+E202500274,2025-10-11,,Finance,HR Specialist,Contractor,Male,40-50,Doctor,High,Good,Better,76338.35246611011
+E04872,2024-03-23,,Finance,Sales Executive,Full-time,Female,30-40,Below College,High,Excellent,Best,65000.0
+E04173,2024-01-03,,Finance,Research Scientist,Contractor,Female,20-30,Below College,High,Good,Bad,66000.0
+E00243,2020-11-21,,Finance,HR Specialist,Contractor,Male,40-50,College,Medium,Good,Good,134000.0
+E00500,2020-04-13,,Finance,Finance Director,Full-time,Other,30-40,Doctor,High,Low,Bad,80000.0
+E00283,2020-03-12,2020-09-14,Finance,HR Specialist,Contractor,Female,20-30,Master,High,Low,Good,126000.0
+E00943,2021-03-17,,Finance,Manager,Full-time,Male,60+,Below College,Medium,Outstanding,Best,131000.0
+E01457,2022-11-03,2024-06-20,Finance,Manager,Full-time,Male,60+,College,Low,Excellent,Good,131000.0
+E202500059,2025-07-26,,Finance,Research Scientist,Full-time,Female,Below 20,Master,High,Outstanding,Better,65092.31157092111
+E01438,2022-10-28,,Finance,Sales Executive,Full-time,Male,20-30,Below College,High,Good,Bad,139000.0
+E202500068,2025-09-01,,Finance,Manager,Full-time,Female,30-40,Doctor,Very High,Outstanding,Bad,80825.63121447524
+E03304,2023-12-05,,Finance,HR Specialist,Contractor,Female,30-40,Below College,Low,Excellent,Good,68000.0
+E04708,2024-12-16,,Finance,IT Analyst,Contractor,Female,20-30,Doctor,Low,Outstanding,Good,70000.0
+E03777,2024-12-05,,Finance,Sales Executive,Full-time,Male,20-30,Below College,High,Excellent,Best,105000.0
+E03614,2024-11-23,,Finance,Finance Director,Full-time,Male,60+,Master,High,Outstanding,Best,85000.0
+E02012,2022-04-28,2023-05-17,Finance,Research Scientist,Full-time,Female,30-40,Bachelor,High,Low,Better,113000.0
+E04727,2024-06-19,,Finance,Finance Director,Full-time,Male,30-40,Doctor,Very High,Outstanding,Good,83000.0
+E00942,2021-06-18,,Finance,Manager,Full-time,Male,60+,Bachelor,Medium,Outstanding,Bad,123000.0
+E01824,2022-07-23,,Finance,Manager,Full-time,Male,20-30,Bachelor,Medium,Good,Best,95000.0
+E03175,2023-06-11,,Finance,IT Analyst,Full-time,Female,50-60,Bachelor,Medium,Excellent,Better,77000.0
+E00391,2020-03-21,,Finance,Finance Director,Contractor,Other,40-50,College,Low,Outstanding,Best,117000.0
+E04769,2024-10-11,,Finance,Finance Director,Contractor,Male,Below 20,Bachelor,High,Excellent,Best,65000.0
+E02874,2023-02-08,,Finance,HR Specialist,Contractor,Female,40-50,Below College,Medium,Outstanding,Bad,120000.0
+E04946,2024-12-18,,Finance,Sales Executive,Contractor,Other,30-40,Doctor,Very High,Outstanding,Better,115000.0
+E04417,2024-01-13,,Finance,Finance Director,Contractor,Female,Below 20,College,Very High,Excellent,Good,76000.0
+E04175,2024-05-31,,Finance,Manager,Contractor,Male,20-30,Bachelor,High,Outstanding,Good,68000.0
+E01898,2022-04-21,2024-07-19,Finance,HR Specialist,Contractor,Female,Below 20,Doctor,Very High,Excellent,Bad,140000.0
+E04595,2024-09-08,,Finance,Research Scientist,Contractor,Female,40-50,College,High,Outstanding,Bad,130000.0
+E01186,2021-03-02,,Finance,Sales Executive,Full-time,Male,20-30,Master,High,Low,Best,102000.0
+E00350,2020-08-15,,Finance,Manager,Full-time,Male,30-40,Below College,Very High,Low,Bad,96000.0
+E202500007,2025-07-25,,Finance,Sales Executive,Contractor,Male,60+,College,Medium,Low,Best,77648.34936731112
+E00608,2021-02-05,,Finance,Sales Executive,Full-time,Female,20-30,Below College,Very High,Low,Best,124000.0
+E01261,2021-02-03,2022-08-02,Finance,Finance Director,Contractor,Female,60+,Below College,High,Low,Better,122000.0
+E02817,2023-08-03,,Finance,Manager,Contractor,Male,Below 20,College,High,Excellent,Better,88000.0
+E03802,2024-06-10,,Finance,Sales Executive,Full-time,Male,Below 20,College,High,Outstanding,Best,134000.0
+E202500145,2025-07-22,,Finance,HR Specialist,Full-time,Female,40-50,Master,High,Excellent,Better,113477.56835808612
+E00627,2021-03-19,,Finance,Manager,Full-time,Female,30-40,Below College,Medium,Outstanding,Good,121000.0
+E03136,2023-07-17,,Finance,Finance Director,Contractor,Male,50-60,College,Very High,Outstanding,Good,130000.0
+E01566,2022-07-15,,Finance,HR Specialist,Contractor,Female,Below 20,Doctor,Low,Outstanding,Better,70000.0
+E03888,2024-04-06,2024-09-10,Finance,Sales Executive,Contractor,Male,Below 20,Doctor,High,Outstanding,Good,86000.0
+E00612,2021-05-09,,Finance,HR Specialist,Contractor,Male,Below 20,Below College,Low,Outstanding,Bad,78000.0
+E04733,2024-07-07,,Finance,HR Specialist,Full-time,Male,40-50,Master,High,Outstanding,Better,126000.0
+E03936,2024-08-22,,Finance,IT Analyst,Contractor,Male,30-40,Doctor,High,Outstanding,Good,133000.0
+E02793,2023-11-18,,Finance,IT Analyst,Contractor,Male,30-40,Master,Medium,Outstanding,Best,125000.0
+E202500334,2025-10-15,,Finance,Finance Director,Contractor,Male,20-30,Master,Medium,Excellent,Good,73343.42052522473
+E03748,2024-03-03,,Finance,Research Scientist,Contractor,Female,40-50,Doctor,Medium,Low,Best,97000.0
+E01159,2021-03-17,2022-05-22,Finance,Research Scientist,Contractor,Male,20-30,Doctor,High,Low,Good,68000.0
+E04268,2024-06-12,,Finance,HR Specialist,Contractor,Female,40-50,Below College,Low,Good,Bad,135000.0
+E01271,2021-07-17,,Finance,HR Specialist,Full-time,Male,40-50,Bachelor,Very High,Excellent,Bad,62000.0
+E01046,2021-12-27,,Finance,Research Scientist,Contractor,Male,60+,Below College,Medium,Excellent,Better,88000.0
+E03320,2023-05-22,,Finance,IT Analyst,Contractor,Male,40-50,College,High,Excellent,Better,75000.0
+E02039,2022-09-22,,Finance,Finance Director,Contractor,Female,Below 20,Doctor,High,Good,Good,116000.0
+E02620,2023-09-08,,Finance,IT Analyst,Contractor,Female,40-50,College,Very High,Good,Bad,89000.0
+E03203,2023-05-01,2025-08-21,Finance,Sales Executive,Full-time,Female,50-60,College,Medium,Low,Best,87000.0
+E202500040,2025-04-27,,Finance,IT Analyst,Contractor,Male,40-50,Master,Very High,Good,Better,117358.38975786026
+E00970,2021-08-15,,Finance,Sales Executive,Full-time,Male,40-50,College,Very High,Outstanding,Best,100000.0
+E01629,2022-11-01,,Finance,Finance Director,Full-time,Female,40-50,Bachelor,Very High,Excellent,Better,89000.0
+E02327,2022-08-25,,Finance,Manager,Contractor,Male,40-50,Below College,Very High,Low,Bad,113000.0
+E00355,2020-11-20,,Finance,Manager,Full-time,Female,60+,Doctor,Medium,Outstanding,Bad,107000.0
+E00888,2021-10-14,,Finance,Sales Executive,Full-time,Female,40-50,College,Very High,Outstanding,Better,66000.0
+E202500210,2025-02-26,,Finance,IT Analyst,Full-time,Male,50-60,Doctor,Very High,Outstanding,Bad,133688.58064513642
+E03718,2024-04-16,,Finance,HR Specialist,Contractor,Female,Below 20,College,Low,Low,Bad,103000.0
+E00941,2021-07-08,,Finance,Finance Director,Contractor,Female,30-40,Below College,Low,Low,Good,103000.0
+E04547,2024-07-15,,Finance,Sales Executive,Contractor,Female,50-60,Bachelor,Medium,Low,Best,131000.0
+E03512,2023-11-03,,Finance,Manager,Full-time,Female,60+,Bachelor,Very High,Good,Bad,111000.0
+E00209,2020-10-10,,Finance,Manager,Full-time,Female,20-30,Bachelor,High,Good,Best,106000.0
+E00167,2020-07-20,,Finance,HR Specialist,Full-time,Female,Below 20,Below College,High,Outstanding,Best,137000.0
+E04049,2024-01-02,,Finance,Research Scientist,Full-time,Male,Below 20,Below College,Medium,Outstanding,Good,138000.0
+E00606,2021-02-26,,Finance,IT Analyst,Full-time,Female,50-60,Below College,Low,Excellent,Best,100000.0
+E00266,2020-02-10,,Finance,HR Specialist,Full-time,Male,40-50,Doctor,Low,Excellent,Best,76000.0
+E04035,2024-12-26,,Finance,Manager,Full-time,Female,20-30,Master,Medium,Low,Good,63000.0
+E01775,2022-06-18,2025-05-06,Finance,Sales Executive,Full-time,Male,60+,Bachelor,High,Low,Better,70000.0
+E01092,2021-03-23,2025-04-25,Finance,Sales Executive,Full-time,Male,60+,Bachelor,Very High,Outstanding,Best,98000.0
+E02801,2023-12-26,2024-02-26,Finance,Sales Executive,Full-time,Male,40-50,Below College,High,Good,Bad,115000.0
+E04420,2024-05-21,,Finance,Sales Executive,Contractor,Female,60+,Bachelor,Medium,Excellent,Bad,89000.0
+E01923,2022-01-02,2022-09-08,Finance,Sales Executive,Contractor,Male,20-30,Bachelor,Very High,Good,Best,91000.0
+E03138,2023-03-03,,Finance,HR Specialist,Full-time,Male,30-40,Doctor,Medium,Excellent,Bad,89000.0
+E00012,2020-05-14,,Finance,Research Scientist,Contractor,Other,60+,College,Medium,Good,Good,121000.0
+E01606,2022-10-15,,Finance,HR Specialist,Full-time,Male,50-60,Bachelor,Very High,Excellent,Better,91000.0
+E02527,2023-07-21,,Finance,IT Analyst,Full-time,Female,60+,Doctor,Very High,Excellent,Best,125000.0
+E202500214,2025-10-04,,Finance,IT Analyst,Contractor,Female,50-60,College,Very High,Outstanding,Good,113003.34176495184
+E03411,2023-05-22,,Finance,Manager,Full-time,Female,Below 20,Master,Very High,Excellent,Good,98000.0
+E03704,2024-12-10,,Finance,Finance Director,Contractor,Male,60+,Master,Low,Excellent,Best,124000.0
+E04532,2024-10-16,,Finance,Finance Director,Full-time,Female,30-40,College,Low,Outstanding,Best,81000.0
+E01474,2022-03-07,,Finance,Finance Director,Contractor,Female,60+,Master,High,Outstanding,Best,102000.0
+E04316,2024-02-23,,Finance,IT Analyst,Contractor,Female,60+,College,Very High,Good,Good,94000.0
+E02678,2023-10-18,,Finance,IT Analyst,Full-time,Female,40-50,Master,Medium,Outstanding,Better,112000.0
+E00280,2020-07-02,,Finance,IT Analyst,Full-time,Male,30-40,Below College,Low,Good,Good,77000.0
+E01370,2021-06-19,2022-07-23,Finance,Finance Director,Contractor,Female,60+,Doctor,High,Low,Bad,61000.0
+E01627,2022-04-01,,Finance,Finance Director,Full-time,Female,50-60,College,Very High,Low,Bad,139000.0
+E00301,2020-05-13,,Finance,HR Specialist,Full-time,Female,20-30,Below College,Low,Excellent,Best,66000.0
+E01187,2021-06-24,,Finance,Finance Director,Full-time,Male,30-40,Below College,Very High,Outstanding,Better,136000.0
+E202500098,2025-01-19,,Finance,HR Specialist,Full-time,Male,30-40,College,Low,Low,Bad,127497.25594540832
+E03300,2023-12-01,,Finance,Sales Executive,Full-time,Male,Below 20,Below College,Low,Outstanding,Better,71000.0
+E00481,2020-01-17,,Finance,IT Analyst,Full-time,Male,20-30,Bachelor,Medium,Low,Better,138000.0
+E00774,2021-05-23,,Finance,Finance Director,Contractor,Female,40-50,College,Very High,Low,Better,90000.0
+E02743,2023-05-04,2025-09-30,Finance,Sales Executive,Contractor,Female,Below 20,Bachelor,High,Good,Good,72000.0
+E04484,2024-11-06,,Finance,IT Analyst,Contractor,Male,50-60,Master,High,Outstanding,Best,80000.0
+E202500263,2025-07-06,,Finance,IT Analyst,Contractor,Female,50-60,Bachelor,High,Excellent,Bad,96872.41921641526
+E02615,2023-05-08,,Finance,Finance Director,Contractor,Female,50-60,College,Very High,Outstanding,Better,133000.0
+E04877,2024-03-12,2025-05-19,Finance,Research Scientist,Contractor,Male,50-60,Below College,High,Low,Bad,121000.0
+E01969,2022-02-06,,Finance,Sales Executive,Full-time,Female,60+,College,Very High,Good,Better,118000.0
+E03734,2024-11-18,,Finance,Sales Executive,Full-time,Male,40-50,Bachelor,Very High,Outstanding,Better,106000.0
+E01168,2021-04-15,,Finance,IT Analyst,Full-time,Male,Below 20,Below College,High,Low,Best,110000.0
+E00976,2021-11-06,,Finance,HR Specialist,Contractor,Female,Below 20,Master,Low,Outstanding,Best,102000.0
+E04588,2024-04-25,,Finance,HR Specialist,Contractor,Female,50-60,College,High,Outstanding,Bad,66000.0
+E01855,2022-12-09,,Finance,IT Analyst,Contractor,Male,60+,College,Low,Outstanding,Bad,115000.0
+E02699,2023-04-26,,Finance,IT Analyst,Contractor,Male,Below 20,College,Very High,Excellent,Best,91000.0
+E00311,2020-10-11,,Finance,IT Analyst,Full-time,Female,Below 20,Doctor,Very High,Low,Best,86000.0
+E02554,2023-06-20,,Finance,HR Specialist,Full-time,Other,50-60,College,Medium,Low,Good,97000.0
+E00312,2020-10-17,,Finance,Finance Director,Contractor,Female,50-60,Below College,High,Excellent,Best,121000.0
+E04572,2024-04-04,,Finance,Research Scientist,Contractor,Male,20-30,Doctor,High,Excellent,Best,125000.0
+E03214,2023-01-19,,HR,Research Scientist,Full-time,Male,40-50,Master,Medium,Good,Bad,96000.0
+E04096,2024-01-27,,HR,Research Scientist,Contractor,Female,Below 20,Doctor,High,Outstanding,Best,63000.0
+E00049,2020-09-05,2022-09-23,HR,Manager,Contractor,Male,40-50,Bachelor,Low,Outstanding,Bad,80000.0
+E01800,2022-01-19,,HR,Research Scientist,Contractor,Female,30-40,Below College,High,Excellent,Better,96000.0
+E00798,2021-01-04,2025-12-12,HR,Finance Director,Contractor,Male,20-30,Doctor,Low,Outstanding,Good,87000.0
+E03094,2023-06-17,,HR,IT Analyst,Contractor,Male,20-30,Doctor,High,Low,Better,66000.0
+E202500393,2025-05-29,,HR,Manager,Contractor,Female,Below 20,Below College,High,Excellent,Better,61615.08367933244
+E202500056,2025-07-22,,HR,IT Analyst,Full-time,Male,20-30,College,Medium,Outstanding,Bad,52229.662357715046
+E01244,2021-03-14,,HR,Manager,Full-time,Male,50-60,Master,Low,Good,Better,73000.0
+E01421,2022-11-12,,HR,Manager,Full-time,Female,60+,Doctor,Very High,Low,Bad,47000.0
+E00075,2020-02-29,2025-06-29,HR,Research Scientist,Contractor,Male,60+,Doctor,Very High,Outstanding,Bad,64000.0
+E202500298,2025-06-28,,HR,HR Specialist,Full-time,Female,20-30,Master,Low,Outstanding,Good,73395.59118745434
+E00790,2021-01-18,,HR,Sales Executive,Contractor,Other,60+,Bachelor,High,Outstanding,Better,62000.0
+E04481,2024-07-01,2025-07-05,HR,Research Scientist,Contractor,Female,40-50,College,Very High,Good,Better,45000.0
+E04978,2024-11-17,2025-02-22,HR,Manager,Full-time,Female,40-50,College,Very High,Outstanding,Better,74000.0
+E01432,2022-05-06,,HR,Research Scientist,Contractor,Male,60+,Master,Low,Good,Bad,80000.0
+E00023,2020-01-30,,HR,Sales Executive,Full-time,Female,Below 20,Below College,Very High,Good,Bad,73000.0
+E01564,2022-10-31,,HR,Finance Director,Contractor,Female,40-50,Below College,Medium,Good,Bad,77000.0
+E03942,2024-03-15,,HR,Sales Executive,Full-time,Male,50-60,Master,Very High,Excellent,Bad,59000.0
+E01362,2021-11-08,,HR,IT Analyst,Full-time,Female,20-30,Master,Medium,Low,Better,74000.0
+E04426,2024-12-22,,HR,Manager,Full-time,Female,30-40,Master,Very High,Good,Better,67000.0
+E202500328,2025-06-12,,HR,IT Analyst,Full-time,Male,20-30,Doctor,Very High,Excellent,Good,70010.47719557393
+E03965,2024-07-16,2025-06-03,HR,Research Scientist,Full-time,Female,30-40,Bachelor,Low,Low,Good,51000.0
+E03575,2023-08-16,,HR,Sales Executive,Full-time,Male,30-40,College,High,Excellent,Better,85000.0
+E03489,2023-02-23,,HR,Finance Director,Full-time,Female,40-50,Master,Very High,Outstanding,Best,71000.0
+E04087,2024-07-30,,HR,Manager,Contractor,Female,50-60,Master,Low,Good,Better,51000.0
+E04072,2024-05-15,,HR,Finance Director,Contractor,Male,60+,Doctor,Low,Low,Good,69000.0
+E04833,2024-08-31,,HR,IT Analyst,Contractor,Male,60+,Doctor,Low,Good,Good,98000.0
+E04424,2024-12-26,,HR,HR Specialist,Full-time,Male,Below 20,Bachelor,Low,Outstanding,Best,85000.0
+E202500278,2025-06-21,,HR,IT Analyst,Contractor,Male,20-30,College,Low,Low,Better,83919.85540288502
+E202500376,2025-06-12,,HR,Sales Executive,Full-time,Male,30-40,Below College,Medium,Low,Best,105765.61647039105
+E00614,2021-09-12,,HR,IT Analyst,Contractor,Female,Below 20,Master,Low,Outstanding,Best,56000.0
+E02249,2022-06-18,,HR,HR Specialist,Contractor,Male,20-30,College,Medium,Low,Best,56000.0
+E04729,2024-10-12,,HR,HR Specialist,Full-time,Male,30-40,Doctor,Very High,Outstanding,Good,46000.0
+E00286,2020-04-05,,HR,HR Specialist,Contractor,Female,50-60,Doctor,Medium,Excellent,Best,67000.0
+E00780,2021-01-28,,HR,HR Specialist,Contractor,Male,50-60,Master,High,Good,Best,80000.0
+E03475,2023-11-02,,HR,Manager,Full-time,Male,60+,Bachelor,Low,Excellent,Best,56000.0
+E00751,2021-04-18,,HR,Research Scientist,Full-time,Female,60+,Master,High,Low,Good,71000.0
+E00069,2020-12-27,,HR,Finance Director,Contractor,Female,30-40,Doctor,Medium,Outstanding,Bad,92000.0
+E00819,2021-09-08,,HR,HR Specialist,Full-time,Female,60+,Below College,Very High,Outstanding,Good,76000.0
+E01049,2021-01-13,2022-08-02,HR,Sales Executive,Contractor,Male,40-50,Master,Medium,Excellent,Bad,42000.0
+E01082,2021-09-08,,HR,Sales Executive,Full-time,Female,60+,Bachelor,Low,Outstanding,Better,62000.0
+E02830,2023-08-22,2025-06-29,HR,HR Specialist,Contractor,Female,Below 20,Bachelor,Low,Good,Bad,61000.0
+E01366,2021-01-13,,HR,Finance Director,Contractor,Female,40-50,Bachelor,Very High,Good,Good,52000.0
+E202500115,2025-05-05,,HR,IT Analyst,Contractor,Female,Below 20,Master,Low,Outstanding,Best,54634.43847709511
+E03506,2023-07-08,,HR,Research Scientist,Contractor,Male,30-40,Doctor,Medium,Low,Good,91000.0
+E00778,2021-07-12,2021-11-26,HR,Sales Executive,Full-time,Male,60+,College,Medium,Excellent,Good,54000.0
+E02267,2022-01-20,,HR,Manager,Contractor,Male,20-30,College,Low,Low,Better,73000.0
+E04820,2024-10-14,,HR,Manager,Full-time,Female,30-40,Doctor,High,Low,Best,51000.0
+E00797,2021-07-13,2022-01-20,HR,Research Scientist,Contractor,Male,40-50,Master,Low,Low,Bad,61000.0
+E202500382,2025-04-22,,HR,HR Specialist,Full-time,Female,60+,Below College,Very High,Outstanding,Good,78420.78596422992
+E00947,2021-07-06,,HR,Research Scientist,Contractor,Female,40-50,Bachelor,Low,Excellent,Best,67000.0
+E04398,2024-10-24,,HR,HR Specialist,Contractor,Female,Below 20,Doctor,Medium,Excellent,Best,77000.0
+E202500329,2025-01-10,,HR,Sales Executive,Full-time,Male,20-30,Bachelor,Very High,Excellent,Better,77591.12710783975
+E02167,2022-09-14,,HR,Research Scientist,Full-time,Male,60+,Doctor,Very High,Excellent,Bad,83000.0
+E02131,2022-04-06,,HR,IT Analyst,Contractor,Female,20-30,Master,Very High,Outstanding,Better,95000.0
+E01291,2021-04-30,,HR,HR Specialist,Full-time,Female,30-40,Master,Very High,Low,Good,97000.0
+E01784,2022-05-16,2025-04-09,HR,Finance Director,Full-time,Male,20-30,Master,Very High,Outstanding,Bad,79000.0
+E202500017,2025-06-12,,HR,Manager,Full-time,Female,50-60,Bachelor,High,Good,Good,90645.39888039374
+E04639,2024-09-18,,HR,HR Specialist,Contractor,Male,Below 20,Master,Low,Low,Good,95000.0
+E04290,2024-03-28,,HR,HR Specialist,Contractor,Male,30-40,College,Very High,Outstanding,Bad,95000.0
+E202500087,2025-07-17,,HR,HR Specialist,Full-time,Male,Below 20,College,High,Good,Bad,103979.55998052678
+E03276,2023-12-28,,HR,Manager,Full-time,Male,Below 20,Below College,Low,Excellent,Best,60000.0
+E202500209,2025-07-17,,HR,Research Scientist,Contractor,Male,60+,Doctor,Very High,Outstanding,Bad,70263.68441662568
+E00773,2021-07-02,,HR,Sales Executive,Full-time,Female,Below 20,Master,Medium,Outstanding,Better,41000.0
+E04108,2024-11-16,,HR,Manager,Full-time,Female,30-40,Below College,Low,Outstanding,Bad,71000.0
+E01510,2022-05-09,,HR,Research Scientist,Contractor,Male,20-30,Master,Very High,Good,Better,64000.0
+E00875,2021-05-25,,HR,Finance Director,Full-time,Female,Below 20,Below College,Medium,Good,Best,77000.0
+E00705,2021-02-28,,HR,IT Analyst,Contractor,Female,20-30,College,Low,Good,Good,73000.0
+E03807,2024-10-01,,HR,IT Analyst,Full-time,Female,Below 20,College,Medium,Excellent,Best,61000.0
+E00935,2021-04-19,,HR,IT Analyst,Contractor,Female,50-60,Master,Very High,Excellent,Good,46000.0
+E04830,2024-10-07,,HR,Manager,Contractor,Male,60+,Master,Low,Outstanding,Good,44000.0
+E01780,2022-08-25,,HR,IT Analyst,Full-time,Male,20-30,College,High,Outstanding,Bad,64000.0
+E00315,2020-09-08,,HR,HR Specialist,Contractor,Male,30-40,Master,High,Excellent,Best,81000.0
+E00791,2021-11-05,,HR,HR Specialist,Contractor,Female,Below 20,Below College,Very High,Outstanding,Bad,80000.0
+E00828,2021-11-29,,HR,Finance Director,Full-time,Female,60+,Master,Medium,Good,Bad,64000.0
+E00009,2020-10-14,,HR,Manager,Full-time,Male,30-40,Bachelor,Medium,Outstanding,Bad,85000.0
+E00079,2020-10-09,2022-01-02,HR,Research Scientist,Contractor,Female,Below 20,College,Very High,Excellent,Good,95000.0
+E02456,2023-07-16,,HR,Finance Director,Contractor,Female,50-60,Below College,Medium,Excellent,Better,46000.0
+E00206,2020-04-07,,HR,Manager,Contractor,Female,60+,Doctor,Medium,Outstanding,Better,47000.0
+E02536,2023-01-05,,HR,HR Specialist,Full-time,Male,60+,Doctor,Medium,Low,Bad,43000.0
+E04673,2024-08-26,,HR,Sales Executive,Contractor,Male,50-60,Master,Medium,Good,Better,75000.0
+E02236,2022-09-12,,HR,Manager,Contractor,Male,40-50,Bachelor,Low,Low,Good,68000.0
+E202500372,2025-03-27,,HR,Research Scientist,Full-time,Female,60+,Bachelor,High,Outstanding,Bad,61889.93418214234
+E01631,2022-06-27,,HR,Research Scientist,Contractor,Male,40-50,Doctor,High,Good,Good,84000.0
+E04427,2024-11-27,,HR,Manager,Full-time,Female,Below 20,College,Medium,Excellent,Good,99000.0
+E00155,2020-03-10,,HR,Sales Executive,Full-time,Other,Below 20,College,High,Low,Good,67000.0
+E01793,2022-03-09,2024-01-04,HR,Research Scientist,Contractor,Male,Below 20,Master,Medium,Good,Better,68000.0
+E02885,2023-02-15,,HR,Manager,Full-time,Female,30-40,Bachelor,Very High,Outstanding,Best,54000.0
+E00101,2020-03-05,,HR,Research Scientist,Contractor,Female,50-60,Bachelor,Medium,Excellent,Better,52000.0
+E04846,2024-12-23,,HR,Finance Director,Contractor,Female,60+,Bachelor,Very High,Excellent,Best,57000.0
+E00370,2020-05-24,2022-08-29,HR,Research Scientist,Full-time,Female,40-50,Below College,High,Good,Good,71000.0
+E04922,2024-05-03,,HR,Finance Director,Full-time,Male,40-50,College,Low,Low,Better,52000.0
+E00510,2020-03-21,,HR,Research Scientist,Contractor,Male,20-30,Doctor,High,Excellent,Good,41000.0
+E00980,2021-03-03,2025-12-16,HR,IT Analyst,Contractor,Male,60+,Doctor,Very High,Low,Good,41000.0
+E01726,2022-04-14,,HR,Sales Executive,Contractor,Female,Below 20,Below College,High,Outstanding,Best,42000.0
+E02124,2022-02-08,2024-02-06,HR,Research Scientist,Full-time,Female,Below 20,Master,High,Excellent,Better,58000.0
+E03889,2024-04-17,,HR,Finance Director,Full-time,Male,20-30,Master,High,Low,Best,70000.0
+E03673,2024-06-19,,HR,Sales Executive,Full-time,Male,40-50,Master,Low,Low,Best,80000.0
+E02952,2023-05-16,2025-04-29,HR,Manager,Full-time,Male,50-60,Bachelor,Low,Outstanding,Better,76000.0
+E02280,2022-08-24,,HR,HR Specialist,Full-time,Female,Below 20,Doctor,High,Good,Better,70000.0
+E202500219,2025-09-29,,HR,HR Specialist,Full-time,Other,50-60,Master,High,Good,Good,84720.08189478135
+E04362,2024-02-14,,HR,Manager,Contractor,Male,30-40,Master,High,Good,Good,52000.0
+E04391,2024-07-19,,HR,HR Specialist,Contractor,Female,20-30,Master,High,Good,Good,58000.0
+E01557,2022-12-29,,HR,Research Scientist,Contractor,Male,20-30,Bachelor,Low,Low,Better,60000.0
+E03671,2024-03-12,,IT,Research Scientist,Contractor,Female,60+,Below College,Low,Outstanding,Better,83000.0
+E04329,2024-07-24,2025-01-13,IT,Manager,Contractor,Female,Below 20,Below College,High,Low,Better,146000.0
+E202500101,2025-01-12,,IT,Sales Executive,Full-time,Male,60+,Doctor,Low,Low,Good,96875.10607234536
+E01228,2021-01-06,,IT,IT Analyst,Contractor,Female,40-50,College,Low,Outstanding,Bad,103000.0
+E00988,2021-09-28,,IT,Research Scientist,Contractor,Female,60+,Below College,Medium,Low,Better,85000.0
+E02018,2022-11-13,,IT,Manager,Full-time,Male,40-50,College,Low,Excellent,Good,83000.0
+E01002,2021-06-04,,IT,IT Analyst,Contractor,Male,50-60,College,High,Low,Bad,132000.0
+E01137,2021-09-01,2023-01-14,IT,IT Analyst,Contractor,Male,50-60,Master,Low,Outstanding,Better,118000.0
+E01694,2022-03-22,,IT,HR Specialist,Full-time,Female,Below 20,Below College,Very High,Good,Best,71000.0
+E02876,2023-08-25,,IT,IT Analyst,Full-time,Male,50-60,Master,Very High,Good,Better,118000.0
+E01465,2022-05-09,2022-09-29,IT,IT Analyst,Full-time,Other,20-30,College,High,Excellent,Bad,136000.0
+E01347,2021-04-29,2022-12-26,IT,IT Analyst,Contractor,Female,20-30,Below College,High,Good,Better,144000.0
+E202500058,2025-04-27,,IT,Research Scientist,Contractor,Female,20-30,Doctor,Low,Good,Best,156593.3642936784
+E03661,2024-09-01,,IT,Manager,Contractor,Male,Below 20,Bachelor,Medium,Excellent,Best,92000.0
+E02592,2023-11-05,,IT,Manager,Contractor,Male,40-50,Below College,Medium,Low,Good,109000.0
+E02102,2022-08-02,2023-01-22,IT,Research Scientist,Full-time,Male,30-40,College,Low,Low,Best,145000.0
+E00868,2021-04-01,2024-02-29,IT,HR Specialist,Full-time,Female,Below 20,College,Medium,Good,Best,145000.0
+E00185,2020-11-24,,IT,HR Specialist,Full-time,Female,30-40,Bachelor,Low,Excellent,Better,110000.0
+E202500389,2025-08-07,,IT,HR Specialist,Full-time,Male,Below 20,Master,Medium,Good,Bad,88519.59080626613
+E00309,2020-09-21,,IT,Research Scientist,Contractor,Male,Below 20,Master,Medium,Good,Better,124000.0
+E02509,2023-11-11,,IT,IT Analyst,Contractor,Male,Below 20,Master,High,Low,Bad,118000.0
+E04713,2024-06-29,,IT,Manager,Full-time,Female,Below 20,Master,Low,Good,Good,110000.0
+E02644,2023-08-21,,IT,Sales Executive,Full-time,Male,30-40,Bachelor,Very High,Outstanding,Better,139000.0
+E02182,2022-08-24,,IT,Research Scientist,Contractor,Female,20-30,College,High,Outstanding,Bad,103000.0
+E03391,2023-03-03,2025-10-01,IT,Sales Executive,Contractor,Female,50-60,Bachelor,High,Outstanding,Better,149000.0
+E00198,2020-05-21,2021-03-08,IT,Sales Executive,Full-time,Male,50-60,Below College,Medium,Good,Bad,73000.0
+E03680,2024-01-02,,IT,HR Specialist,Contractor,Female,50-60,College,Medium,Low,Best,104000.0
+E03111,2023-01-06,,IT,HR Specialist,Contractor,Male,40-50,Doctor,Very High,Excellent,Good,82000.0
+E01451,2022-03-11,,IT,Manager,Contractor,Male,20-30,Bachelor,Low,Good,Best,74000.0
+E01575,2022-10-30,2024-04-09,IT,IT Analyst,Contractor,Female,30-40,College,High,Good,Bad,80000.0
+E02043,2022-07-22,,IT,Manager,Full-time,Male,40-50,College,Very High,Outstanding,Better,77000.0
+E04303,2024-12-30,,IT,Finance Director,Contractor,Male,30-40,Master,Medium,Low,Good,134000.0
+E04031,2024-01-13,,IT,IT Analyst,Contractor,Male,40-50,Bachelor,Very High,Low,Bad,79000.0
+E00962,2021-08-02,,IT,HR Specialist,Contractor,Male,50-60,Doctor,High,Low,Best,92000.0
+E02265,2022-12-04,2024-05-16,IT,HR Specialist,Contractor,Male,20-30,Doctor,Medium,Excellent,Bad,81000.0
+E03086,2023-10-10,2024-05-17,IT,IT Analyst,Contractor,Male,20-30,Below College,Medium,Outstanding,Good,77000.0
+E00125,2020-01-30,,IT,Sales Executive,Contractor,Female,50-60,Doctor,Very High,Outstanding,Bad,93000.0
+E04516,2024-12-20,2025-09-29,IT,Manager,Contractor,Female,40-50,Below College,High,Excellent,Better,101000.0
+E202500190,2025-11-28,,IT,Manager,Full-time,Female,50-60,Doctor,High,Low,Better,71492.29513387011
+E02254,2022-05-31,,IT,Finance Director,Contractor,Male,50-60,Below College,Low,Outstanding,Good,85000.0
+E00317,2020-09-16,2025-01-20,IT,Research Scientist,Contractor,Female,20-30,Bachelor,Medium,Low,Better,132000.0
+E03662,2024-07-15,2025-04-08,IT,Research Scientist,Contractor,Male,50-60,Doctor,Very High,Excellent,Good,76000.0
+E01277,2021-08-02,2023-07-31,IT,IT Analyst,Full-time,Female,30-40,Doctor,High,Excellent,Better,125000.0
+E202500291,2025-08-24,,IT,Research Scientist,Contractor,Male,60+,Master,Very High,Low,Good,93031.28053948398
+E02342,2022-05-01,2023-12-26,IT,Research Scientist,Full-time,Female,20-30,Bachelor,High,Good,Best,71000.0
+E04242,2024-10-15,,IT,HR Specialist,Contractor,Female,40-50,Doctor,Medium,Outstanding,Best,98000.0
+E03555,2023-08-02,2025-04-16,IT,Manager,Full-time,Female,Below 20,Master,Low,Outstanding,Good,99000.0
+E02916,2023-05-06,,IT,Research Scientist,Full-time,Male,60+,Master,Medium,Good,Bad,132000.0
+E00241,2020-08-22,,IT,Sales Executive,Full-time,Other,50-60,Doctor,Low,Good,Good,135000.0
+E04628,2024-07-29,,IT,IT Analyst,Contractor,Male,50-60,Master,Medium,Excellent,Best,98000.0
+E01245,2021-03-22,,IT,Manager,Contractor,Male,40-50,Below College,Medium,Outstanding,Better,145000.0
+E04343,2024-02-15,,IT,HR Specialist,Contractor,Male,Below 20,Doctor,Medium,Good,Good,79000.0
+E04850,2024-11-24,,IT,IT Analyst,Contractor,Female,50-60,College,Very High,Outstanding,Good,139000.0
+E01495,2022-11-19,2024-04-05,IT,Manager,Full-time,Male,Below 20,Bachelor,Medium,Excellent,Good,71000.0
+E03864,2024-07-07,,IT,Finance Director,Full-time,Female,60+,College,High,Outstanding,Bad,72000.0
+E00726,2021-06-24,2025-11-14,IT,Research Scientist,Contractor,Male,Below 20,Doctor,Very High,Low,Best,136000.0
+E04079,2024-04-27,,IT,IT Analyst,Full-time,Male,30-40,Master,High,Outstanding,Better,95000.0
+E04260,2024-09-12,,IT,HR Specialist,Full-time,Female,30-40,Bachelor,High,Low,Good,131000.0
+E04509,2024-04-15,,IT,IT Analyst,Full-time,Male,20-30,College,Low,Good,Good,78000.0
+E02358,2022-11-26,2023-07-12,IT,HR Specialist,Full-time,Female,50-60,Below College,High,Excellent,Best,81000.0
+E01394,2021-09-07,2025-09-04,IT,Finance Director,Contractor,Male,20-30,Doctor,Very High,Excellent,Better,97000.0
+E03176,2023-01-07,,IT,Sales Executive,Full-time,Female,40-50,Bachelor,Very High,Outstanding,Bad,82000.0
+E02316,2022-07-22,,IT,Manager,Contractor,Female,40-50,Bachelor,Very High,Good,Better,131000.0
+E202500238,2025-12-18,,IT,Finance Director,Contractor,Male,50-60,Doctor,Low,Outstanding,Better,110365.41545642722
+E04253,2024-09-21,,IT,Research Scientist,Full-time,Female,Below 20,Master,Low,Outstanding,Best,87000.0
+E03651,2024-02-10,,IT,Sales Executive,Full-time,Male,40-50,Bachelor,Very High,Excellent,Best,106000.0
+E00173,2020-12-10,2023-06-11,IT,Sales Executive,Contractor,Male,50-60,Master,High,Good,Bad,117000.0
+E04285,2024-03-06,,IT,Finance Director,Full-time,Male,40-50,Master,Medium,Outstanding,Bad,85000.0
+E01224,2021-06-30,,IT,Sales Executive,Full-time,Other,60+,Doctor,Medium,Excellent,Bad,74000.0
+E02381,2022-08-30,2024-06-15,IT,Sales Executive,Full-time,Male,50-60,Doctor,Medium,Excellent,Good,89000.0
+E202500161,2025-07-01,,IT,IT Analyst,Contractor,Female,20-30,Bachelor,Low,Good,Good,124751.9953932394
+E01972,2022-10-10,,IT,Finance Director,Contractor,Male,50-60,Below College,Very High,Outstanding,Good,130000.0
+E02931,2023-12-01,,IT,Sales Executive,Full-time,Male,30-40,College,Medium,Low,Good,94000.0
+E01759,2022-01-01,2025-12-08,IT,HR Specialist,Full-time,Female,20-30,Below College,Low,Outstanding,Bad,71000.0
+E202500284,2025-07-30,,IT,Sales Executive,Contractor,Male,30-40,Master,Very High,Outstanding,Bad,101551.89898795924
+E04136,2024-04-02,,IT,Sales Executive,Full-time,Female,Below 20,Master,Medium,Good,Best,128000.0
+E02091,2022-10-22,2025-02-13,IT,Finance Director,Contractor,Male,60+,College,Low,Good,Best,84000.0
+E01397,2021-10-30,,IT,Manager,Contractor,Female,30-40,College,Low,Outstanding,Bad,113000.0
+E02544,2023-11-17,,IT,Research Scientist,Full-time,Male,60+,Below College,Medium,Low,Good,82000.0
+E00457,2020-10-08,,IT,Manager,Full-time,Female,40-50,Below College,Low,Excellent,Bad,90000.0
+E04649,2024-10-13,,IT,Finance Director,Full-time,Male,20-30,Bachelor,Low,Good,Best,98000.0
+E01806,2022-11-16,,IT,Manager,Contractor,Male,20-30,Doctor,High,Outstanding,Better,85000.0
+E202500363,2025-05-22,,IT,Finance Director,Contractor,Female,Below 20,Master,Low,Good,Good,85203.82313214763
+E02622,2023-12-15,,IT,HR Specialist,Contractor,Male,20-30,Master,Low,Outstanding,Good,90000.0
+E01013,2021-05-13,,IT,Manager,Contractor,Other,20-30,Bachelor,Medium,Low,Better,92000.0
+E02237,2022-08-05,,IT,Sales Executive,Contractor,Male,50-60,Bachelor,Very High,Excellent,Better,147000.0
+E00404,2020-11-03,,IT,HR Specialist,Full-time,Male,Below 20,Doctor,Low,Outstanding,Best,75000.0
+E01102,2021-06-01,,IT,IT Analyst,Contractor,Other,30-40,College,Very High,Low,Best,72000.0
+E02894,2023-12-03,2025-05-21,IT,Research Scientist,Full-time,Male,60+,Master,Low,Good,Good,74000.0
+E02015,2022-03-06,,IT,HR Specialist,Contractor,Male,Below 20,Doctor,Medium,Excellent,Good,129000.0
+E01791,2022-08-07,2025-11-12,IT,IT Analyst,Full-time,Female,20-30,Below College,Medium,Excellent,Good,119000.0
+E202500293,2025-01-26,,IT,Finance Director,Contractor,Female,Below 20,Master,Low,Excellent,Good,101034.10974437796
+E04554,2024-09-03,,IT,HR Specialist,Full-time,Male,40-50,College,Medium,Excellent,Bad,144000.0
+E04438,2024-12-12,,IT,Research Scientist,Contractor,Male,60+,Bachelor,Very High,Outstanding,Bad,97000.0
+E00252,2020-11-20,,IT,Manager,Full-time,Female,60+,College,Very High,Outstanding,Good,132000.0
+E202500306,2025-08-04,,IT,Sales Executive,Full-time,Female,40-50,College,Very High,Low,Better,101241.23294585512
+E02852,2023-09-19,,IT,IT Analyst,Full-time,Female,30-40,Doctor,Very High,Excellent,Best,76000.0
+E01375,2021-05-11,,IT,Finance Director,Contractor,Female,Below 20,College,Very High,Low,Better,87000.0
+E03709,2024-01-05,,IT,HR Specialist,Full-time,Female,20-30,Master,High,Low,Good,98000.0
+E03462,2023-02-04,,IT,IT Analyst,Full-time,Female,50-60,Doctor,Low,Excellent,Better,96000.0
+E00858,2021-08-31,,IT,Sales Executive,Contractor,Male,Below 20,Bachelor,Medium,Outstanding,Good,86000.0
+E02749,2023-06-12,,IT,Manager,Full-time,Male,Below 20,Bachelor,Low,Excellent,Better,122000.0
+E00231,2020-05-29,2025-05-22,IT,Manager,Full-time,Male,20-30,College,Medium,Excellent,Better,76000.0
+E202500127,2025-06-19,,IT,IT Analyst,Contractor,Female,20-30,Master,Low,Low,Best,75225.03902941017
+E02332,2022-12-04,,IT,Sales Executive,Full-time,Female,30-40,Doctor,Low,Low,Good,142000.0
+E03021,2023-08-25,,IT,Manager,Full-time,Female,50-60,Bachelor,High,Outstanding,Bad,109000.0
+E00098,2020-12-22,,IT,Sales Executive,Contractor,Female,40-50,Below College,Very High,Outstanding,Good,104000.0
+E02093,2022-01-14,,IT,Manager,Contractor,Female,20-30,College,Low,Low,Best,147000.0
+E03852,2024-04-25,,IT,HR Specialist,Full-time,Female,Below 20,Below College,Low,Outstanding,Good,77000.0
+E03946,2024-08-04,,IT,Research Scientist,Full-time,Female,Below 20,Bachelor,High,Low,Bad,98000.0
+E00170,2020-06-22,,IT,HR Specialist,Contractor,Male,50-60,Doctor,Very High,Low,Bad,99000.0
+E02386,2022-06-29,2022-11-14,IT,Sales Executive,Contractor,Male,30-40,College,Low,Good,Bad,124000.0
+E02469,2023-01-09,,IT,Manager,Contractor,Male,40-50,College,High,Low,Better,133000.0
+E03164,2023-07-03,2024-09-23,IT,Finance Director,Full-time,Male,60+,Below College,Medium,Low,Better,97000.0
+E03642,2024-10-06,,IT,IT Analyst,Full-time,Male,40-50,Below College,Medium,Low,Good,93000.0
+E01017,2021-07-28,,IT,IT Analyst,Contractor,Female,20-30,College,Low,Excellent,Better,100000.0
+E03987,2024-09-30,,IT,Manager,Full-time,Female,50-60,Below College,Medium,Outstanding,Bad,130000.0
+E202500027,2025-12-01,,IT,Manager,Contractor,Female,50-60,Master,Very High,Low,Bad,74519.4970055658
+E01422,2022-04-08,,IT,Research Scientist,Contractor,Male,60+,Doctor,Low,Good,Better,125000.0
+E04779,2024-12-20,,IT,Manager,Contractor,Female,30-40,Bachelor,Very High,Low,Bad,73000.0
+E04191,2024-01-04,,IT,Research Scientist,Full-time,Male,30-40,Master,High,Low,Good,113000.0
+E01411,2022-10-11,,IT,IT Analyst,Contractor,Female,50-60,Below College,High,Good,Good,128000.0
+E00999,2021-01-30,2021-10-05,IT,HR Specialist,Full-time,Other,60+,Doctor,Low,Low,Better,117000.0
+E202500199,2025-05-03,,IT,Finance Director,Full-time,Female,40-50,College,Low,Excellent,Bad,108625.15951721524
+E04023,2024-05-24,,IT,HR Specialist,Full-time,Male,Below 20,Bachelor,Very High,Low,Good,84000.0
+E04384,2024-07-31,,IT,Manager,Contractor,Male,30-40,Master,Very High,Outstanding,Best,127000.0
+E01689,2022-11-17,,IT,HR Specialist,Full-time,Male,50-60,Doctor,Medium,Excellent,Good,78000.0
+E03746,2024-08-04,2025-05-01,IT,HR Specialist,Full-time,Female,40-50,Master,Very High,Excellent,Bad,116000.0
+E01522,2022-09-02,2023-11-18,IT,Research Scientist,Full-time,Male,30-40,Master,Low,Low,Best,72000.0
+E00690,2021-06-09,,IT,HR Specialist,Contractor,Female,Below 20,Doctor,High,Good,Good,131000.0
+E202500327,2025-04-21,,IT,Finance Director,Full-time,Female,60+,Master,Medium,Excellent,Bad,94032.73107252398
+E00331,2020-03-31,,IT,Manager,Full-time,Female,20-30,Bachelor,Medium,Outstanding,Bad,75000.0
+E00747,2021-09-12,,IT,HR Specialist,Full-time,Female,20-30,College,Low,Excellent,Bad,101000.0
+E04589,2024-08-28,,IT,HR Specialist,Full-time,Male,60+,Master,Medium,Good,Best,118000.0
+E02251,2022-09-04,2023-04-28,IT,Finance Director,Contractor,Female,20-30,Below College,High,Low,Better,133000.0
+E04432,2024-10-09,,IT,IT Analyst,Contractor,Male,50-60,Master,High,Good,Good,99000.0
+E02565,2023-05-08,,IT,Manager,Full-time,Female,20-30,College,High,Outstanding,Bad,86000.0
+E01680,2022-07-23,2023-09-30,IT,Finance Director,Contractor,Male,50-60,College,High,Low,Bad,128000.0
+E03160,2023-06-04,,IT,IT Analyst,Full-time,Female,40-50,Bachelor,Low,Good,Bad,97000.0
+E04735,2024-12-14,,IT,Finance Director,Contractor,Female,60+,Doctor,High,Good,Best,90000.0
+E00634,2021-05-11,,IT,Research Scientist,Full-time,Male,60+,Below College,High,Outstanding,Best,74000.0
+E03687,2024-09-24,,IT,Sales Executive,Contractor,Male,Below 20,College,High,Outstanding,Best,104000.0
+E02309,2022-11-17,2023-01-27,IT,Research Scientist,Contractor,Female,50-60,Master,High,Outstanding,Good,147000.0
+E03988,2024-06-15,,IT,HR Specialist,Contractor,Female,60+,Below College,High,Outstanding,Better,124000.0
+E03958,2024-03-16,,IT,Manager,Full-time,Female,Below 20,College,High,Good,Best,71000.0
+E00786,2021-05-26,,IT,Finance Director,Full-time,Male,20-30,Master,Medium,Good,Better,118000.0
+E02559,2023-05-03,2025-06-12,IT,IT Analyst,Contractor,Female,40-50,Below College,High,Outstanding,Best,106000.0
+E04699,2024-09-08,,IT,HR Specialist,Full-time,Female,20-30,College,Medium,Low,Good,99000.0
+E02517,2023-09-20,,IT,Finance Director,Contractor,Female,60+,Doctor,Very High,Low,Best,134000.0
+E03659,2024-10-31,,IT,Sales Executive,Full-time,Male,40-50,Below College,Medium,Low,Good,98000.0
+E02506,2023-01-28,,IT,Finance Director,Contractor,Female,Below 20,College,High,Low,Best,96000.0
+E04557,2024-03-13,,IT,Finance Director,Full-time,Male,Below 20,Bachelor,Medium,Good,Bad,75000.0
+E01436,2022-10-15,2023-05-19,IT,HR Specialist,Contractor,Female,40-50,Below College,Medium,Outstanding,Best,78000.0
+E202500240,2025-10-09,,IT,Finance Director,Contractor,Male,60+,Bachelor,High,Excellent,Better,119662.20448456064
+E04943,2024-05-08,,IT,Sales Executive,Contractor,Male,30-40,Master,Low,Excellent,Best,144000.0
+E02534,2023-03-03,,IT,Research Scientist,Full-time,Female,40-50,College,High,Good,Good,122000.0
+E03537,2023-05-23,,IT,Finance Director,Full-time,Female,20-30,Bachelor,Very High,Outstanding,Bad,102000.0
+E01176,2021-05-15,,IT,IT Analyst,Full-time,Male,30-40,Bachelor,High,Excellent,Best,79000.0
+E02652,2023-02-15,,IT,Research Scientist,Full-time,Female,Below 20,Doctor,High,Low,Good,99000.0
+E01287,2021-10-19,2022-04-11,IT,Sales Executive,Contractor,Female,40-50,Below College,Low,Good,Better,128000.0
+E02345,2022-11-24,2025-06-27,IT,IT Analyst,Contractor,Other,60+,Below College,Low,Low,Best,77000.0
+E04975,2024-06-25,,IT,Manager,Full-time,Female,40-50,College,High,Low,Better,124000.0
+E04636,2024-12-23,,IT,IT Analyst,Full-time,Other,50-60,Below College,High,Excellent,Good,76000.0
+E202500311,2025-09-01,,IT,IT Analyst,Full-time,Female,Below 20,Bachelor,Very High,Outstanding,Best,75928.56739584
+E00351,2020-01-19,2025-04-25,IT,Finance Director,Full-time,Male,50-60,Doctor,Medium,Outstanding,Good,70000.0
+E00485,2020-06-04,,IT,HR Specialist,Full-time,Male,30-40,Doctor,Low,Good,Best,93000.0
+E04056,2024-04-13,,IT,IT Analyst,Contractor,Female,40-50,Master,Medium,Good,Bad,76000.0
+E01080,2021-12-15,,IT,HR Specialist,Contractor,Other,30-40,Below College,Very High,Excellent,Better,142000.0
+E02393,2022-03-13,,IT,Manager,Full-time,Female,40-50,Bachelor,Very High,Excellent,Bad,123000.0
+E02421,2023-04-11,,IT,Manager,Full-time,Female,Below 20,Bachelor,Medium,Good,Good,138000.0
+E202500321,2025-06-15,,IT,IT Analyst,Full-time,Female,50-60,Below College,Very High,Good,Bad,144720.3615780043
+E02483,2023-06-07,,IT,IT Analyst,Contractor,Other,Below 20,College,Very High,Good,Better,98000.0
+E04192,2024-04-30,,IT,IT Analyst,Full-time,Male,50-60,Doctor,High,Good,Best,119000.0
+E04648,2024-04-20,,IT,Finance Director,Contractor,Female,60+,Doctor,High,Outstanding,Better,78000.0
+E02890,2023-05-11,,IT,HR Specialist,Full-time,Male,40-50,Below College,High,Low,Better,145000.0
+E00516,2020-08-24,,IT,IT Analyst,Contractor,Female,50-60,Below College,Very High,Low,Good,93000.0
+E01441,2022-06-28,,IT,Research Scientist,Contractor,Other,Below 20,Below College,Low,Excellent,Better,130000.0
+E202500169,2025-08-02,,IT,Research Scientist,Contractor,Female,20-30,College,High,Outstanding,Bad,93827.92068424674
+E02445,2023-11-22,,IT,Sales Executive,Contractor,Female,40-50,Master,Low,Low,Better,85000.0
+E02626,2023-02-24,,IT,Manager,Contractor,Other,Below 20,Doctor,Medium,Excellent,Bad,110000.0
+E03500,2023-07-04,,IT,IT Analyst,Contractor,Male,30-40,College,Very High,Good,Best,106000.0
+E00688,2021-04-16,,IT,Research Scientist,Full-time,Female,60+,College,Very High,Good,Good,120000.0
+E01205,2021-02-23,,IT,Sales Executive,Full-time,Male,60+,Doctor,Medium,Outstanding,Good,118000.0
+E01404,2022-10-05,,IT,Finance Director,Contractor,Male,Below 20,Below College,Medium,Low,Good,121000.0
+E02700,2023-06-03,2025-12-09,IT,Sales Executive,Full-time,Male,50-60,College,Low,Outstanding,Bad,100000.0
+E04296,2024-08-21,,IT,IT Analyst,Contractor,Female,60+,Doctor,Low,Excellent,Better,128000.0
+E04373,2024-07-01,,IT,Manager,Full-time,Female,20-30,Doctor,Medium,Outstanding,Best,122000.0
+E03205,2023-02-09,,IT,Research Scientist,Full-time,Male,60+,Doctor,Very High,Outstanding,Best,134000.0
+E03956,2024-06-17,,IT,Research Scientist,Full-time,Male,20-30,Master,Low,Excellent,Good,120000.0
+E00121,2020-07-21,,IT,HR Specialist,Full-time,Male,20-30,Below College,Low,Good,Good,130000.0
+E02326,2022-06-12,,IT,Manager,Full-time,Other,50-60,College,Low,Low,Bad,106000.0
+E04046,2024-01-09,,IT,Manager,Full-time,Female,Below 20,Master,High,Low,Better,79000.0
+E00903,2021-02-03,2025-04-25,IT,Manager,Contractor,Female,60+,Master,Low,Excellent,Best,150000.0
+E04358,2024-05-11,,IT,Finance Director,Contractor,Male,50-60,Master,High,Good,Better,112000.0
+E00124,2020-08-28,,IT,IT Analyst,Contractor,Female,30-40,Doctor,Low,Excellent,Best,94000.0
+E04916,2024-12-12,,IT,IT Analyst,Contractor,Male,50-60,Doctor,Very High,Good,Bad,115000.0
+E01739,2022-02-27,,IT,Finance Director,Full-time,Female,20-30,Master,Low,Low,Good,75000.0
+E01256,2021-03-27,2022-09-27,IT,IT Analyst,Full-time,Female,40-50,College,Low,Excellent,Best,126000.0
+E00950,2021-03-19,,IT,IT Analyst,Contractor,Male,40-50,College,High,Low,Bad,104000.0
+E01920,2022-03-17,,IT,Finance Director,Contractor,Female,20-30,Master,Medium,Low,Good,71000.0
+E01068,2021-03-02,2023-07-15,IT,Manager,Full-time,Female,30-40,College,High,Low,Better,100000.0
+E00277,2020-02-13,,IT,Sales Executive,Full-time,Male,Below 20,Doctor,Low,Outstanding,Better,110000.0
+E03184,2023-09-02,,IT,Finance Director,Full-time,Female,20-30,Bachelor,High,Outstanding,Better,129000.0
+E01538,2022-06-16,,IT,Manager,Full-time,Male,50-60,Master,High,Excellent,Better,117000.0
+E03876,2024-10-26,2025-10-20,IT,Sales Executive,Full-time,Female,60+,Master,Low,Low,Better,135000.0
+E00902,2021-10-01,,IT,Finance Director,Contractor,Female,60+,Below College,Very High,Outstanding,Better,107000.0
+E01267,2021-12-02,,IT,IT Analyst,Contractor,Female,Below 20,Below College,Low,Outstanding,Good,125000.0
+E02480,2023-12-23,,IT,IT Analyst,Full-time,Male,30-40,Doctor,High,Excellent,Better,135000.0
+E03600,2023-03-25,,IT,Finance Director,Contractor,Male,40-50,College,Medium,Excellent,Bad,113000.0
+E04488,2024-01-12,,IT,IT Analyst,Contractor,Female,Below 20,Below College,Low,Good,Better,100000.0
+E04717,2024-04-17,,IT,Manager,Contractor,Male,Below 20,Below College,Low,Good,Bad,133000.0
+E202500212,2025-10-30,,IT,Sales Executive,Contractor,Female,30-40,College,Medium,Good,Good,161494.59702390924
+E02419,2023-02-10,,IT,Finance Director,Full-time,Female,20-30,Master,Medium,Excellent,Best,129000.0
+E03576,2023-06-11,2025-08-16,IT,Sales Executive,Full-time,Female,60+,College,Very High,Low,Good,71000.0
+E00183,2020-11-26,2021-07-27,IT,HR Specialist,Contractor,Male,20-30,Master,Medium,Low,Best,122000.0
+E01412,2022-08-06,,IT,Finance Director,Full-time,Female,60+,Bachelor,High,Outstanding,Better,139000.0
+E00449,2020-02-02,,IT,Manager,Contractor,Female,50-60,Master,Medium,Excellent,Good,113000.0
+E00615,2021-07-12,,IT,HR Specialist,Full-time,Male,60+,Bachelor,Very High,Outstanding,Better,73000.0
+E04892,2024-07-14,,IT,Sales Executive,Full-time,Female,40-50,Master,Low,Good,Best,86000.0
+E04640,2024-06-24,2025-10-13,IT,Finance Director,Contractor,Male,60+,College,High,Good,Good,85000.0
+E02308,2022-09-19,,IT,HR Specialist,Full-time,Male,50-60,College,High,Low,Bad,104000.0
+E01094,2021-12-09,,IT,HR Specialist,Contractor,Male,20-30,College,High,Excellent,Bad,117000.0
+E02735,2023-12-01,2025-06-27,IT,Finance Director,Contractor,Other,30-40,Doctor,High,Good,Better,104000.0
+E01616,2022-09-17,,IT,Finance Director,Full-time,Male,30-40,Doctor,High,Excellent,Bad,95000.0
+E202500331,2025-12-01,,IT,IT Analyst,Full-time,Male,Below 20,College,Medium,Good,Best,94499.04424498674
+E01720,2022-08-09,,IT,IT Analyst,Contractor,Female,60+,Bachelor,Very High,Excellent,Bad,86000.0
+E01044,2021-05-14,,IT,Sales Executive,Contractor,Male,30-40,Below College,High,Outstanding,Best,91000.0
+E00803,2021-11-10,,IT,Manager,Contractor,Male,60+,Master,High,Good,Better,98000.0
+E02546,2023-02-15,,IT,Manager,Full-time,Male,20-30,Doctor,High,Outstanding,Best,101000.0
+E01875,2022-10-14,,IT,Research Scientist,Contractor,Male,20-30,College,Low,Excellent,Bad,144000.0
+E202500312,2025-08-26,,IT,Finance Director,Full-time,Female,30-40,Master,Medium,Outstanding,Good,112998.27593364
+E01324,2021-05-08,2022-07-03,IT,Finance Director,Full-time,Female,20-30,Bachelor,High,Outstanding,Better,132000.0
+E00426,2020-05-29,,IT,Manager,Full-time,Male,40-50,College,Very High,Outstanding,Better,118000.0
+E04642,2024-07-08,,IT,Sales Executive,Contractor,Female,40-50,College,High,Excellent,Best,149000.0
+E03880,2024-07-12,,IT,Manager,Contractor,Female,50-60,Master,High,Outstanding,Better,105000.0
+E04299,2024-07-29,,IT,HR Specialist,Full-time,Female,60+,Master,Very High,Outstanding,Bad,148000.0
+E04971,2024-03-01,,IT,Sales Executive,Full-time,Male,60+,Below College,Very High,Good,Bad,121000.0
+E02989,2023-07-31,,IT,HR Specialist,Contractor,Male,20-30,Bachelor,Low,Low,Bad,93000.0
+E202500146,2025-05-23,,IT,Finance Director,Contractor,Female,Below 20,Master,High,Low,Better,90652.21988882836
+E00893,2021-09-15,2022-09-17,IT,Manager,Full-time,Male,50-60,Below College,High,Good,Better,72000.0
+E04382,2024-10-01,,IT,Manager,Contractor,Female,Below 20,Master,Medium,Outstanding,Best,80000.0
+E04986,2024-02-09,,IT,Manager,Full-time,Female,30-40,Bachelor,High,Outstanding,Best,91000.0
+E01210,2021-03-24,,IT,Research Scientist,Contractor,Other,20-30,Below College,Very High,Low,Good,90000.0
+E01406,2022-02-17,2025-10-12,IT,HR Specialist,Full-time,Male,60+,Below College,Low,Low,Better,101000.0
+E01928,2022-10-21,,IT,Finance Director,Contractor,Male,60+,College,Low,Low,Good,95000.0
+E02903,2023-08-27,2025-10-17,IT,HR Specialist,Full-time,Female,60+,College,Very High,Outstanding,Bad,146000.0
+E03570,2023-01-11,2025-08-15,IT,IT Analyst,Full-time,Male,Below 20,Bachelor,Very High,Low,Better,143000.0
+E01010,2021-07-22,2023-04-04,IT,Sales Executive,Full-time,Male,60+,Doctor,Low,Low,Good,99000.0
+E01757,2022-08-08,,IT,Finance Director,Full-time,Other,30-40,Master,High,Low,Bad,91000.0
+E04021,2024-01-18,,IT,IT Analyst,Contractor,Female,20-30,Bachelor,High,Good,Bad,101000.0
+E00655,2021-02-27,,IT,Finance Director,Full-time,Female,Below 20,Bachelor,High,Good,Better,139000.0
+E02523,2023-10-29,,IT,Finance Director,Contractor,Female,20-30,Doctor,Low,Good,Good,130000.0
+E02988,2023-03-18,,IT,HR Specialist,Full-time,Male,20-30,Below College,Medium,Low,Good,143000.0
+E00216,2020-10-09,,IT,Sales Executive,Contractor,Female,Below 20,Master,Very High,Excellent,Bad,121000.0
+E04354,2024-03-22,,IT,Sales Executive,Contractor,Other,50-60,Doctor,Very High,Low,Bad,109000.0
+E04198,2024-12-15,,IT,Finance Director,Full-time,Female,20-30,Doctor,Low,Excellent,Best,125000.0
+E01467,2022-07-30,2025-10-08,IT,Research Scientist,Contractor,Other,20-30,Below College,High,Good,Better,139000.0
+E02880,2023-11-04,,IT,Manager,Contractor,Female,20-30,Doctor,High,Good,Good,137000.0
+E00204,2020-05-10,2020-12-17,IT,IT Analyst,Contractor,Male,50-60,Bachelor,Low,Excellent,Best,144000.0
+E03778,2024-12-27,,IT,Sales Executive,Contractor,Male,40-50,Bachelor,Very High,Excellent,Best,102000.0
+E02998,2023-10-11,,IT,Manager,Contractor,Female,Below 20,College,Very High,Outstanding,Best,85000.0
+E00432,2020-07-30,,IT,Finance Director,Contractor,Male,30-40,College,Very High,Low,Best,94000.0
+E02600,2023-03-02,2023-08-13,IT,Research Scientist,Full-time,Female,40-50,College,Very High,Excellent,Good,109000.0
+E02242,2022-10-09,2024-10-11,IT,Finance Director,Contractor,Female,Below 20,Master,Low,Good,Good,88000.0
+E02261,2022-02-14,,IT,HR Specialist,Full-time,Male,40-50,College,Low,Excellent,Best,101000.0
+E03663,2024-12-08,,IT,HR Specialist,Contractor,Female,50-60,Below College,Low,Low,Good,148000.0
+E04431,2024-03-03,2025-11-08,IT,IT Analyst,Contractor,Male,30-40,Master,Low,Excellent,Good,137000.0
+E04644,2024-11-27,,Marketing,IT Analyst,Contractor,Female,40-50,Doctor,Medium,Outstanding,Good,93000.0
+E202500268,2025-05-06,,Marketing,Manager,Full-time,Male,50-60,College,Low,Good,Bad,94773.8038652681
+E01904,2022-04-11,2025-10-12,Marketing,Finance Director,Contractor,Female,30-40,Master,Very High,Excellent,Bad,80000.0
+E04919,2024-01-01,,Marketing,IT Analyst,Full-time,Male,Below 20,College,High,Good,Better,94000.0
+E03148,2023-03-26,,Marketing,HR Specialist,Contractor,Male,40-50,Master,Very High,Excellent,Bad,54000.0
+E01577,2022-11-24,,Marketing,IT Analyst,Contractor,Female,30-40,Master,High,Excellent,Good,73000.0
+E04142,2024-07-23,,Marketing,Research Scientist,Contractor,Female,Below 20,Below College,Medium,Good,Better,85000.0
+E04686,2024-11-17,2025-01-08,Marketing,Research Scientist,Contractor,Female,40-50,Bachelor,Medium,Outstanding,Best,99000.0
+E202500338,2025-07-17,,Marketing,Research Scientist,Contractor,Male,50-60,Master,Medium,Good,Bad,110405.89141168472
+E02370,2022-06-07,,Marketing,Sales Executive,Full-time,Male,Below 20,Below College,Medium,Excellent,Good,48000.0
+E00135,2020-08-17,2022-02-17,Marketing,Manager,Contractor,Other,30-40,Doctor,Very High,Outstanding,Good,65000.0
+E01816,2022-09-03,2024-08-05,Marketing,Sales Executive,Full-time,Other,60+,Master,High,Outstanding,Good,79000.0
+E202500335,2025-11-20,,Marketing,Manager,Contractor,Other,20-30,Doctor,Low,Outstanding,Better,83038.1105848922
+E03464,2023-08-15,,Marketing,Finance Director,Contractor,Male,40-50,Below College,Very High,Excellent,Best,62000.0
+E02227,2022-04-29,,Marketing,Finance Director,Full-time,Female,60+,Bachelor,Very High,Outstanding,Good,99000.0
+E04759,2024-01-01,,Marketing,Manager,Contractor,Female,60+,College,High,Excellent,Better,83000.0
+E00990,2021-08-31,,Marketing,Research Scientist,Contractor,Male,Below 20,Master,Very High,Outstanding,Bad,68000.0
+E00379,2020-02-07,,Marketing,Finance Director,Contractor,Male,60+,Doctor,Very High,Excellent,Good,49000.0
+E02522,2023-03-12,,Marketing,Finance Director,Contractor,Female,60+,Bachelor,Very High,Low,Good,46000.0
+E01032,2021-09-18,,Marketing,Finance Director,Contractor,Male,Below 20,Master,Low,Excellent,Better,47000.0
+E02641,2023-05-20,,Marketing,HR Specialist,Contractor,Female,60+,College,Very High,Outstanding,Best,65000.0
+E202500307,2025-05-30,,Marketing,HR Specialist,Full-time,Male,40-50,Master,High,Outstanding,Bad,88528.71063691567
+E03059,2023-01-28,,Marketing,Sales Executive,Contractor,Female,20-30,Doctor,Very High,Outstanding,Better,55000.0
+E202500093,2025-11-29,,Marketing,Sales Executive,Full-time,Male,60+,Doctor,Very High,Excellent,Good,46564.864922830806
+E00405,2020-09-23,,Marketing,Finance Director,Contractor,Female,60+,Master,Very High,Low,Better,108000.0
+E01620,2022-11-30,,Marketing,IT Analyst,Full-time,Male,20-30,Below College,High,Outstanding,Best,97000.0
+E202500271,2025-10-26,,Marketing,HR Specialist,Full-time,Female,60+,Doctor,Very High,Excellent,Good,77469.72256721371
+E202500172,2025-03-19,,Marketing,Sales Executive,Contractor,Male,30-40,Bachelor,High,Outstanding,Better,88891.24145530512
+E00867,2021-07-22,2023-01-07,Marketing,Manager,Full-time,Female,20-30,Master,Low,Outstanding,Better,92000.0
+E00801,2021-09-29,,Marketing,HR Specialist,Full-time,Male,40-50,Doctor,Very High,Outstanding,Better,90000.0
+E00829,2021-05-18,,Marketing,HR Specialist,Full-time,Male,50-60,Doctor,Medium,Outstanding,Better,90000.0
+E202500084,2025-03-25,,Marketing,HR Specialist,Contractor,Female,60+,Doctor,Medium,Good,Good,106529.99087873148
+E04828,2024-01-29,,Marketing,HR Specialist,Full-time,Female,30-40,Bachelor,High,Low,Bad,78000.0
+E00911,2021-04-21,,Marketing,Sales Executive,Contractor,Male,30-40,College,Low,Excellent,Good,107000.0
+E00001,2020-01-13,,Marketing,HR Specialist,Contractor,Female,60+,Doctor,Low,Outstanding,Bad,61000.0
+E00161,2020-11-10,,Marketing,HR Specialist,Contractor,Female,20-30,Doctor,High,Low,Bad,78000.0
+E01156,2021-08-28,,Marketing,Finance Director,Full-time,Male,30-40,Master,Very High,Good,Good,110000.0
+E01284,2021-10-12,2024-06-07,Marketing,Finance Director,Full-time,Female,40-50,College,Medium,Outstanding,Good,94000.0
+E03967,2024-02-19,2025-05-27,Marketing,IT Analyst,Full-time,Female,Below 20,Doctor,Very High,Excellent,Good,87000.0
+E04531,2024-08-24,,Marketing,IT Analyst,Full-time,Female,Below 20,Master,Medium,Excellent,Better,79000.0
+E01429,2022-08-19,2024-05-04,Marketing,Manager,Full-time,Male,20-30,Master,Medium,Outstanding,Better,100000.0
+E02321,2022-01-27,2023-04-16,Marketing,Research Scientist,Full-time,Male,Below 20,Doctor,Medium,Excellent,Bad,54000.0
+E00668,2021-05-16,,Marketing,HR Specialist,Contractor,Female,20-30,Below College,High,Low,Best,105000.0
+E202500092,2025-08-02,,Marketing,Sales Executive,Full-time,Female,Below 20,Bachelor,Very High,Good,Better,86473.36150238008
+E00249,2020-04-15,,Marketing,Research Scientist,Full-time,Other,50-60,College,Medium,Excellent,Good,97000.0
+E00736,2021-05-03,2025-07-30,Marketing,IT Analyst,Full-time,Male,20-30,Master,Medium,Low,Good,95000.0
+E00781,2021-02-03,2025-10-27,Marketing,HR Specialist,Contractor,Male,60+,Bachelor,Medium,Good,Bad,50000.0
+E01341,2021-03-30,2023-01-15,Marketing,HR Specialist,Full-time,Female,20-30,Master,High,Good,Best,87000.0
+E202500044,2025-10-03,,Marketing,Finance Director,Contractor,Female,60+,Bachelor,Very High,Low,Good,43545.204408877966
+E00465,2020-09-25,2021-04-19,Marketing,Manager,Full-time,Other,60+,Doctor,Low,Low,Best,62000.0
+E04785,2024-06-07,,Marketing,HR Specialist,Full-time,Female,60+,Doctor,Very High,Excellent,Good,75000.0
+E04360,2024-05-29,,Marketing,Research Scientist,Full-time,Female,Below 20,Below College,High,Low,Better,90000.0
+E01957,2022-05-26,2025-07-12,Marketing,Research Scientist,Full-time,Male,30-40,Below College,Low,Low,Better,86000.0
+E02687,2023-03-04,,Marketing,Research Scientist,Contractor,Female,60+,Doctor,Very High,Low,Best,96000.0
+E04196,2024-07-13,2025-12-10,Marketing,HR Specialist,Contractor,Female,20-30,Below College,High,Outstanding,Best,86000.0
+E04795,2024-01-22,,Marketing,Sales Executive,Full-time,Female,50-60,College,Low,Low,Best,68000.0
+E02223,2022-04-09,2023-05-30,Marketing,Research Scientist,Full-time,Female,Below 20,Bachelor,Medium,Good,Good,69000.0
+E02782,2023-09-07,,Marketing,Research Scientist,Contractor,Male,30-40,Master,Low,Low,Better,109000.0
+E01135,2021-02-16,,Marketing,Finance Director,Contractor,Male,50-60,College,Low,Good,Better,93000.0
+E03727,2024-07-19,,Marketing,HR Specialist,Contractor,Female,30-40,Below College,Very High,Good,Best,98000.0
+E02036,2022-08-16,2025-08-24,Marketing,Finance Director,Full-time,Female,20-30,Bachelor,High,Excellent,Best,95000.0
+E03316,2023-10-04,,Marketing,IT Analyst,Contractor,Male,30-40,Master,Very High,Good,Better,87000.0
+E01886,2022-04-15,,Marketing,Sales Executive,Full-time,Female,40-50,College,Low,Excellent,Bad,102000.0
+E02861,2023-01-12,,Marketing,Sales Executive,Contractor,Male,50-60,Below College,High,Good,Good,51000.0
+E01001,2021-09-03,,Marketing,Finance Director,Full-time,Female,50-60,Bachelor,Very High,Excellent,Better,88000.0
+E01072,2021-01-18,,Marketing,Manager,Contractor,Female,60+,College,High,Low,Bad,87000.0
+E01497,2022-01-21,,Marketing,HR Specialist,Full-time,Male,20-30,Below College,Low,Outstanding,Best,99000.0
+E00967,2021-02-11,,Marketing,IT Analyst,Contractor,Male,60+,Master,Very High,Outstanding,Bad,47000.0
+E202500266,2025-12-04,,Marketing,Sales Executive,Full-time,Female,30-40,Doctor,High,Outstanding,Better,101718.46865872823
+E202500171,2025-04-26,,Marketing,Finance Director,Full-time,Female,60+,College,High,Good,Bad,77895.34348230105
+E02832,2023-09-19,2025-07-16,Marketing,HR Specialist,Full-time,Male,40-50,College,High,Low,Bad,71000.0
+E00826,2021-09-19,2022-06-08,Marketing,Finance Director,Contractor,Male,Below 20,Bachelor,Medium,Excellent,Better,88000.0
+E00862,2021-01-05,2025-08-16,Marketing,Manager,Full-time,Female,30-40,Bachelor,High,Excellent,Bad,96000.0
+E04400,2024-04-16,,Marketing,Finance Director,Contractor,Female,20-30,Below College,Medium,Good,Better,54000.0
+E03355,2023-02-28,,Marketing,Sales Executive,Full-time,Female,Below 20,Bachelor,Very High,Good,Better,86000.0
+E00914,2021-12-26,,Marketing,Finance Director,Contractor,Female,Below 20,Below College,Low,Outstanding,Bad,105000.0
+E04004,2024-05-04,,Marketing,IT Analyst,Contractor,Female,60+,Bachelor,Medium,Excellent,Better,103000.0
+E02055,2022-08-03,,Marketing,HR Specialist,Contractor,Male,40-50,Below College,Very High,Low,Best,108000.0
+E01820,2022-11-01,,Marketing,Sales Executive,Contractor,Female,60+,Bachelor,Medium,Low,Bad,63000.0
+E03616,2024-05-28,,Marketing,Research Scientist,Contractor,Female,60+,Below College,Low,Excellent,Best,66000.0
+E01520,2022-06-02,,Marketing,Sales Executive,Contractor,Male,60+,Below College,High,Excellent,Best,67000.0
+E02034,2022-01-24,,Marketing,Finance Director,Full-time,Other,30-40,College,Low,Outstanding,Bad,102000.0
+E03667,2024-08-29,,Marketing,Research Scientist,Contractor,Male,50-60,Master,Medium,Good,Bad,104000.0
+E00853,2021-06-05,2023-08-18,Marketing,IT Analyst,Full-time,Female,20-30,College,Low,Good,Bad,63000.0
+E04719,2024-09-16,,Marketing,Research Scientist,Contractor,Female,50-60,Doctor,Very High,Good,Bad,97000.0
+E00192,2020-03-17,2022-11-06,Marketing,HR Specialist,Full-time,Male,Below 20,Doctor,Very High,Low,Best,53000.0
+E04129,2024-02-10,,Marketing,Research Scientist,Contractor,Female,30-40,Doctor,Low,Excellent,Bad,64000.0
+E04110,2024-01-17,,Marketing,Research Scientist,Full-time,Male,20-30,College,Low,Low,Best,97000.0
+E00253,2020-02-17,,Marketing,Sales Executive,Full-time,Male,Below 20,Doctor,Very High,Good,Best,75000.0
+E04992,2024-08-20,,Marketing,IT Analyst,Full-time,Male,20-30,Master,Low,Good,Best,78000.0
+E03459,2023-03-30,,Marketing,Finance Director,Contractor,Male,40-50,College,Medium,Excellent,Better,84000.0
+E00683,2021-06-21,2025-10-03,Marketing,HR Specialist,Full-time,Female,40-50,Below College,Medium,Outstanding,Good,53000.0
+E02299,2022-09-02,,Marketing,HR Specialist,Contractor,Female,20-30,Bachelor,Very High,Low,Good,58000.0
+E04262,2024-01-18,2024-08-17,Marketing,Manager,Contractor,Male,60+,Master,Very High,Good,Good,48000.0
+E03452,2023-06-30,,Marketing,Research Scientist,Full-time,Male,20-30,Doctor,High,Low,Bad,69000.0
+E03656,2024-11-24,,Marketing,Finance Director,Full-time,Female,30-40,Doctor,Very High,Outstanding,Better,56000.0
+E01354,2021-02-03,,Marketing,Manager,Full-time,Male,30-40,Master,Low,Outstanding,Best,97000.0
+E04565,2024-09-12,,Research & Development,Manager,Full-time,Female,20-30,Master,Medium,Excellent,Best,79000.0
+E03812,2024-03-03,2025-09-26,Research & Development,Finance Director,Contractor,Female,30-40,College,Very High,Low,Best,91000.0
+E00742,2021-06-17,2023-03-12,Research & Development,Research Scientist,Full-time,Female,20-30,Below College,Very High,Low,Better,122000.0
+E01443,2022-04-26,,Research & Development,Sales Executive,Contractor,Male,30-40,College,Very High,Good,Bad,67000.0
+E02574,2023-06-12,,Research & Development,Finance Director,Contractor,Male,60+,Doctor,High,Low,Better,125000.0
+E202500024,2025-11-13,,Research & Development,Finance Director,Full-time,Male,30-40,Doctor,High,Outstanding,Better,118611.92070643976
+E04536,2024-01-01,,Research & Development,Sales Executive,Full-time,Male,Below 20,Doctor,High,Low,Best,91000.0
+E01828,2022-12-25,,Research & Development,Finance Director,Contractor,Other,40-50,College,Medium,Low,Bad,97000.0
+E04550,2024-08-04,2025-04-25,Research & Development,Finance Director,Contractor,Male,30-40,College,Very High,Good,Best,108000.0
+E202500208,2025-01-27,,Research & Development,Finance Director,Full-time,Male,30-40,Doctor,Very High,Outstanding,Good,108233.5198525258
+E03678,2024-09-30,,Research & Development,Research Scientist,Full-time,Female,Below 20,Bachelor,Very High,Excellent,Better,101000.0
+E02140,2022-06-02,2025-12-31,Research & Development,Manager,Full-time,Male,Below 20,Master,Very High,Excellent,Better,74000.0
+E03981,2024-02-23,2025-04-21,Research & Development,Manager,Full-time,Male,Below 20,Doctor,Very High,Low,Best,129000.0
+E02444,2023-06-06,,Research & Development,Research Scientist,Full-time,Male,20-30,College,Low,Good,Bad,116000.0
+E04781,2024-02-11,2025-11-28,Research & Development,HR Specialist,Full-time,Female,40-50,Bachelor,High,Outstanding,Best,66000.0
+E01357,2021-03-23,2021-09-01,Research & Development,Research Scientist,Full-time,Male,40-50,Bachelor,High,Good,Best,81000.0
+E03004,2023-07-05,,Research & Development,Research Scientist,Full-time,Male,20-30,Doctor,Very High,Outstanding,Bad,123000.0
+E03064,2023-01-17,,Research & Development,Finance Director,Full-time,Male,30-40,Doctor,High,Outstanding,Better,124000.0
+E02051,2022-03-28,,Research & Development,Research Scientist,Full-time,Female,40-50,Below College,High,Excellent,Bad,110000.0
+E02184,2022-06-12,,Research & Development,IT Analyst,Contractor,Female,60+,Below College,Very High,Good,Good,124000.0
+E02636,2023-10-18,,Research & Development,Manager,Full-time,Male,40-50,Bachelor,Very High,Outstanding,Better,104000.0
+E04308,2024-11-30,2025-11-04,Research & Development,Finance Director,Contractor,Male,60+,Below College,Very High,Good,Better,82000.0
+E202500220,2025-04-27,,Research & Development,Finance Director,Full-time,Male,50-60,Bachelor,Low,Good,Better,77135.47259037124
+E04015,2024-07-18,,Research & Development,Finance Director,Contractor,Male,60+,College,Very High,Good,Better,84000.0
+E202500325,2025-11-28,,Research & Development,Manager,Full-time,Female,60+,Bachelor,Very High,Low,Bad,90116.43929585678
+E00850,2021-08-08,2022-05-06,Research & Development,Research Scientist,Contractor,Male,20-30,Doctor,Medium,Good,Bad,111000.0
+E202500100,2025-05-24,,Research & Development,Sales Executive,Full-time,Female,30-40,Master,Very High,Good,Best,81027.23061142553
+E02933,2023-11-19,,Research & Development,Research Scientist,Full-time,Female,50-60,Doctor,High,Good,Good,78000.0
+E202500387,2025-06-13,,Research & Development,IT Analyst,Full-time,Female,40-50,College,Low,Outstanding,Good,76914.34922166207
+E02858,2023-06-13,2024-10-03,Research & Development,Sales Executive,Contractor,Female,40-50,Master,High,Outstanding,Better,68000.0
+E01982,2022-09-01,,Research & Development,Sales Executive,Contractor,Male,30-40,Doctor,Very High,Good,Better,91000.0
+E04899,2024-03-05,,Research & Development,Manager,Contractor,Female,40-50,College,Medium,Outstanding,Better,104000.0
+E04048,2024-09-20,2025-02-09,Research & Development,HR Specialist,Full-time,Male,30-40,Master,Very High,Good,Bad,83000.0
+E01963,2022-03-11,2024-07-27,Research & Development,HR Specialist,Contractor,Male,40-50,Doctor,Low,Outstanding,Best,128000.0
+E00845,2021-01-03,,Research & Development,HR Specialist,Contractor,Female,20-30,College,Low,Good,Best,122000.0
+E03384,2023-05-11,,Research & Development,HR Specialist,Full-time,Female,20-30,Master,Medium,Outstanding,Better,129000.0
+E04203,2024-09-24,,Research & Development,Sales Executive,Contractor,Female,50-60,College,Low,Outstanding,Better,104000.0
+E00626,2021-08-28,,Research & Development,Research Scientist,Full-time,Female,50-60,Below College,Medium,Excellent,Best,106000.0
+E01956,2022-02-23,,Research & Development,HR Specialist,Full-time,Male,60+,Doctor,Low,Excellent,Bad,114000.0
+E04369,2024-02-04,,Research & Development,Finance Director,Contractor,Female,40-50,College,Low,Outstanding,Good,124000.0
+E00227,2020-09-10,,Research & Development,Finance Director,Contractor,Other,30-40,Below College,Very High,Excellent,Best,78000.0
+E00416,2020-03-06,2022-09-18,Research & Development,Research Scientist,Contractor,Female,50-60,College,Very High,Good,Best,96000.0
+E202500265,2025-10-30,,Research & Development,Research Scientist,Full-time,Other,60+,Below College,Very High,Excellent,Bad,120436.665664083
+E02160,2022-04-19,2025-11-23,Research & Development,Research Scientist,Full-time,Male,60+,Below College,Very High,Outstanding,Best,103000.0
+E01825,2022-04-15,,Research & Development,Sales Executive,Contractor,Male,50-60,College,Low,Outstanding,Better,91000.0
+E00184,2020-04-05,,Research & Development,IT Analyst,Contractor,Male,Below 20,College,Low,Excellent,Good,128000.0
+E02430,2023-09-03,,Research & Development,Research Scientist,Full-time,Male,50-60,Master,High,Outstanding,Bad,94000.0
+E202500310,2025-03-10,,Research & Development,Manager,Full-time,Male,60+,Below College,High,Excellent,Best,120814.66828294216
+E03828,2024-03-23,,Research & Development,HR Specialist,Contractor,Male,40-50,Master,High,Outstanding,Bad,113000.0
+E04864,2024-10-15,2025-11-13,Research & Development,IT Analyst,Full-time,Female,Below 20,Doctor,Very High,Good,Better,71000.0
+E04085,2024-09-21,,Research & Development,HR Specialist,Contractor,Female,50-60,Below College,High,Excellent,Bad,124000.0
+E02037,2022-04-11,2025-06-22,Research & Development,IT Analyst,Full-time,Female,50-60,Below College,Medium,Excellent,Good,90000.0
+E02346,2022-03-19,,Research & Development,Finance Director,Contractor,Male,40-50,College,Medium,Excellent,Best,67000.0
+E04780,2024-05-03,,Research & Development,Manager,Full-time,Female,Below 20,Doctor,High,Low,Best,97000.0
+E03795,2024-04-20,2025-03-18,Research & Development,HR Specialist,Contractor,Female,40-50,Below College,Medium,Low,Bad,106000.0
+E02935,2023-02-11,,Research & Development,HR Specialist,Contractor,Male,50-60,Doctor,High,Outstanding,Good,66000.0
+E03622,2024-01-05,,Research & Development,IT Analyst,Full-time,Female,20-30,College,Medium,Good,Best,106000.0
+E01163,2021-06-12,,Research & Development,Finance Director,Full-time,Female,40-50,College,Low,Outstanding,Bad,79000.0
+E01682,2022-07-18,2022-10-25,Research & Development,IT Analyst,Full-time,Other,60+,Master,Low,Good,Better,74000.0
+E00145,2020-06-19,2022-08-09,Research & Development,Sales Executive,Contractor,Female,60+,Master,Very High,Good,Better,100000.0
+E01773,2022-06-06,2025-11-13,Research & Development,Research Scientist,Contractor,Male,50-60,Bachelor,High,Excellent,Best,91000.0
+E04130,2024-05-29,,Research & Development,Manager,Contractor,Female,40-50,Bachelor,High,Excellent,Good,83000.0
+E02642,2023-02-12,2025-01-27,Research & Development,Research Scientist,Contractor,Female,20-30,Bachelor,Very High,Good,Good,81000.0
+E00407,2020-03-21,2021-12-06,Research & Development,IT Analyst,Full-time,Female,40-50,Doctor,Medium,Low,Bad,116000.0
+E01125,2021-04-18,,Research & Development,Sales Executive,Contractor,Male,40-50,Master,Medium,Excellent,Good,86000.0
+E202500177,2025-11-27,,Research & Development,Finance Director,Full-time,Female,30-40,Doctor,Very High,Low,Best,82834.77705862901
+E03463,2023-11-03,2025-06-17,Research & Development,Research Scientist,Contractor,Male,Below 20,Below College,High,Low,Good,80000.0
+E03911,2024-11-01,,Research & Development,Research Scientist,Full-time,Female,50-60,Master,Low,Good,Bad,72000.0
+E04298,2024-06-19,,Research & Development,IT Analyst,Full-time,Female,60+,Below College,Low,Low,Good,109000.0
+E202500370,2025-04-17,,Research & Development,Manager,Contractor,Female,Below 20,Doctor,Medium,Good,Best,133299.44740666638
+E04293,2024-02-10,,Research & Development,Research Scientist,Contractor,Male,30-40,Bachelor,Low,Excellent,Good,117000.0
+E00675,2021-09-28,2023-09-04,Research & Development,IT Analyst,Full-time,Female,40-50,Below College,Very High,Excellent,Best,101000.0
+E00533,2020-04-30,,Research & Development,Finance Director,Full-time,Other,Below 20,Bachelor,Medium,Outstanding,Best,117000.0
+E01975,2022-07-09,,Research & Development,Manager,Full-time,Female,20-30,Below College,High,Low,Best,92000.0
+E00869,2021-04-07,2021-10-31,Research & Development,Manager,Full-time,Male,Below 20,Doctor,Medium,Low,Bad,93000.0
+E202500032,2025-03-01,,Research & Development,Manager,Contractor,Other,50-60,Bachelor,High,Outstanding,Better,92448.12498425777
+E03096,2023-09-23,2024-07-28,Research & Development,Research Scientist,Contractor,Male,20-30,Doctor,Medium,Good,Better,108000.0
+E03229,2023-07-04,2025-03-13,Research & Development,Sales Executive,Full-time,Female,30-40,Bachelor,Very High,Outstanding,Better,76000.0
+E04808,2024-10-17,,Research & Development,Finance Director,Contractor,Other,Below 20,Bachelor,Very High,Outstanding,Good,126000.0
+E00386,2020-03-12,,Research & Development,Research Scientist,Contractor,Male,60+,Master,High,Low,Better,77000.0
+E03554,2023-10-14,,Research & Development,HR Specialist,Full-time,Male,60+,Bachelor,Low,Excellent,Better,122000.0
+E01459,2022-07-07,2025-04-09,Research & Development,Research Scientist,Full-time,Female,60+,Below College,Low,Outstanding,Bad,76000.0
+E04661,2024-08-05,,Research & Development,Sales Executive,Contractor,Male,30-40,Below College,Very High,Excellent,Better,101000.0
+E00403,2020-03-23,2022-08-20,Research & Development,Research Scientist,Contractor,Male,20-30,Master,Low,Low,Better,116000.0
+E202500221,2025-07-10,,Research & Development,Finance Director,Full-time,Male,Below 20,Below College,High,Excellent,Best,116718.18996970044
+E04988,2024-02-12,2024-09-24,Research & Development,Finance Director,Contractor,Male,Below 20,College,Low,Low,Good,98000.0
+E00483,2020-07-20,,Research & Development,Research Scientist,Contractor,Female,50-60,Below College,Very High,Outstanding,Bad,113000.0
+E01558,2022-07-23,,Research & Development,Finance Director,Contractor,Female,20-30,Below College,Low,Excellent,Best,112000.0
+E01454,2022-09-04,,Research & Development,Research Scientist,Full-time,Male,Below 20,Doctor,Low,Good,Good,71000.0
+E01591,2022-08-01,,Research & Development,IT Analyst,Contractor,Male,40-50,Master,Low,Good,Better,101000.0
+E01931,2022-10-04,,Research & Development,HR Specialist,Contractor,Male,60+,Bachelor,Very High,Excellent,Bad,110000.0
+E04558,2024-08-19,,Research & Development,Finance Director,Contractor,Male,30-40,College,Medium,Low,Bad,105000.0
+E02243,2022-10-20,,Research & Development,HR Specialist,Full-time,Male,60+,Doctor,Low,Low,Better,115000.0
+E04530,2024-09-23,,Research & Development,Sales Executive,Contractor,Female,50-60,College,Very High,Good,Bad,98000.0
+E04767,2024-01-02,,Research & Development,IT Analyst,Full-time,Male,60+,Master,Medium,Low,Good,119000.0
+E00296,2020-03-30,,Research & Development,IT Analyst,Contractor,Male,20-30,Below College,Very High,Low,Better,113000.0
+E03365,2023-09-16,,Research & Development,Manager,Contractor,Male,60+,Below College,Medium,Low,Best,94000.0
+E04065,2024-04-05,,Research & Development,Research Scientist,Contractor,Male,30-40,Bachelor,Low,Outstanding,Best,78000.0
+E03619,2024-10-10,,Research & Development,HR Specialist,Contractor,Male,Below 20,Doctor,Low,Low,Bad,75000.0
+E202500144,2025-02-05,,Research & Development,Research Scientist,Contractor,Female,20-30,Master,High,Low,Good,110305.59250539482
+E202500297,2025-08-16,,Research & Development,HR Specialist,Full-time,Female,50-60,Bachelor,High,Excellent,Best,96309.02858044032
+E202500361,2025-01-28,,Research & Development,Sales Executive,Contractor,Female,60+,Below College,Low,Good,Bad,114321.36782370011
+E04105,2024-07-12,,Research & Development,IT Analyst,Contractor,Female,20-30,College,Very High,Outstanding,Bad,82000.0
+E202500188,2025-11-30,,Research & Development,HR Specialist,Full-time,Male,30-40,Below College,High,Outstanding,Bad,112026.35717464882
+E00191,2020-11-01,,Research & Development,Manager,Full-time,Female,Below 20,Doctor,Low,Low,Better,70000.0
+E00186,2020-11-27,,Research & Development,Sales Executive,Full-time,Male,30-40,Doctor,Medium,Good,Best,77000.0
+E03346,2023-05-20,2024-10-27,Research & Development,HR Specialist,Contractor,Male,50-60,Bachelor,Low,Low,Best,110000.0
+E03815,2024-12-30,,Research & Development,Research Scientist,Full-time,Female,60+,College,Low,Excellent,Good,111000.0
+E03158,2023-11-18,,Research & Development,IT Analyst,Contractor,Female,50-60,College,Low,Low,Bad,89000.0
+E03949,2024-09-20,,Research & Development,Sales Executive,Contractor,Female,Below 20,Bachelor,High,Excellent,Better,92000.0
+E00471,2020-12-03,,Research & Development,IT Analyst,Full-time,Female,20-30,Master,Low,Excellent,Best,72000.0
+E01693,2022-10-19,,Research & Development,Sales Executive,Full-time,Female,20-30,Below College,Low,Outstanding,Best,85000.0
+E03151,2023-04-19,,Research & Development,IT Analyst,Contractor,Male,50-60,Below College,Low,Excellent,Best,86000.0
+E01895,2022-11-06,2023-08-23,Research & Development,IT Analyst,Contractor,Male,50-60,Master,Low,Good,Better,126000.0
+E00671,2021-04-07,,Research & Development,Sales Executive,Contractor,Female,60+,Bachelor,Very High,Good,Bad,79000.0
+E00454,2020-09-29,,Research & Development,Sales Executive,Contractor,Male,50-60,Bachelor,Very High,Low,Good,78000.0
+E00477,2020-09-25,,Research & Development,HR Specialist,Contractor,Female,30-40,Below College,Low,Good,Good,93000.0
+E202500267,2025-07-06,,Research & Development,Research Scientist,Contractor,Female,50-60,Below College,Medium,Outstanding,Better,79653.86138936115
+E03460,2023-02-25,,Research & Development,IT Analyst,Full-time,Male,20-30,Master,High,Outstanding,Best,75000.0
+E00502,2020-11-26,2021-12-09,Research & Development,Research Scientist,Full-time,Male,40-50,Master,Low,Excellent,Good,106000.0
+E03456,2023-10-15,,Research & Development,Sales Executive,Contractor,Female,60+,Below College,Low,Good,Bad,125000.0
+E02414,2023-11-04,,Research & Development,Manager,Full-time,Female,20-30,Below College,Low,Low,Good,107000.0
+E03261,2023-01-16,2024-04-22,Research & Development,Research Scientist,Contractor,Female,40-50,Below College,High,Low,Best,66000.0
+E03485,2023-08-28,,Research & Development,Sales Executive,Full-time,Male,20-30,Doctor,High,Low,Better,93000.0
+E02975,2023-07-28,,Research & Development,Sales Executive,Contractor,Female,60+,Doctor,Very High,Low,Good,122000.0
+E02598,2023-06-04,,Research & Development,Finance Director,Full-time,Male,60+,Master,Medium,Low,Bad,123000.0
+E02555,2023-09-05,,Research & Development,Manager,Full-time,Female,40-50,College,Low,Good,Good,126000.0
+E03377,2023-06-15,,Research & Development,Finance Director,Full-time,Male,60+,Doctor,Medium,Excellent,Best,112000.0
+E02005,2022-04-17,,Research & Development,HR Specialist,Contractor,Female,20-30,College,Medium,Outstanding,Better,114000.0
+E02311,2022-12-26,,Research & Development,HR Specialist,Full-time,Male,60+,College,Medium,Low,Better,103000.0
+E00028,2020-10-10,,Research & Development,HR Specialist,Full-time,Male,Below 20,Below College,Medium,Excellent,Good,108000.0
+E00338,2020-11-18,2023-05-28,Research & Development,Sales Executive,Full-time,Male,50-60,Doctor,Medium,Outstanding,Bad,108000.0
+E02798,2023-02-08,,Research & Development,Manager,Full-time,Male,30-40,Master,High,Low,Better,128000.0
+E01962,2022-10-08,2024-12-26,Research & Development,Manager,Contractor,Female,Below 20,Bachelor,High,Excellent,Better,116000.0
+E01872,2022-03-23,,Research & Development,Research Scientist,Contractor,Female,Below 20,Bachelor,Medium,Low,Better,90000.0
+E00630,2021-04-01,2025-09-21,Research & Development,Sales Executive,Full-time,Female,Below 20,Below College,Low,Excellent,Good,68000.0
+E03517,2023-10-01,,Research & Development,Manager,Contractor,Female,20-30,Doctor,High,Low,Bad,94000.0
+E202500203,2025-09-07,,Research & Development,Research Scientist,Full-time,Male,60+,College,Very High,Outstanding,Better,105073.98744668144
+E02943,2023-04-24,,Research & Development,IT Analyst,Full-time,Female,60+,Master,Medium,Good,Better,128000.0
+E03677,2024-01-13,,Research & Development,Finance Director,Full-time,Female,50-60,Master,Very High,Good,Bad,117000.0
+E03305,2023-07-15,,Research & Development,Sales Executive,Full-time,Female,40-50,Bachelor,Medium,Low,Bad,118000.0
+E00507,2020-09-25,2025-06-18,Research & Development,Finance Director,Contractor,Male,20-30,Below College,Very High,Outstanding,Bad,86000.0
+E00055,2020-06-03,,Research & Development,Finance Director,Contractor,Male,30-40,Doctor,Very High,Excellent,Bad,104000.0
+E04163,2024-10-16,,Research & Development,Research Scientist,Contractor,Male,50-60,Master,Medium,Low,Bad,77000.0
+E02185,2022-05-24,,Research & Development,Research Scientist,Contractor,Male,Below 20,Below College,High,Low,Good,85000.0
+E04297,2024-11-26,,Research & Development,Research Scientist,Full-time,Female,50-60,Bachelor,Medium,Outstanding,Bad,89000.0
+E00734,2021-12-22,2025-09-24,Research & Development,Sales Executive,Full-time,Male,50-60,Doctor,High,Excellent,Best,95000.0
+E01762,2022-04-05,2024-08-09,Research & Development,Finance Director,Full-time,Male,30-40,Doctor,Very High,Outstanding,Good,109000.0
+E01738,2022-03-17,2024-11-11,Research & Development,HR Specialist,Full-time,Female,40-50,College,Very High,Good,Better,95000.0
+E00177,2020-12-14,,Research & Development,Research Scientist,Full-time,Male,20-30,Bachelor,High,Excellent,Better,110000.0
+E01453,2022-01-14,2025-10-16,Research & Development,Sales Executive,Contractor,Male,Below 20,College,Medium,Low,Bad,110000.0
+E02587,2023-06-24,,Research & Development,Finance Director,Contractor,Female,20-30,Below College,Very High,Low,Best,91000.0
+E01470,2022-03-14,,Research & Development,Sales Executive,Full-time,Male,50-60,Master,Low,Low,Better,71000.0
+E202500049,2025-05-27,,Research & Development,HR Specialist,Full-time,Male,30-40,College,Very High,Outstanding,Bad,92186.1426669599
+E00501,2020-06-23,,Research & Development,Finance Director,Contractor,Male,20-30,College,High,Outstanding,Best,102000.0
+E04579,2024-05-24,,Research & Development,Research Scientist,Full-time,Other,60+,Below College,Very High,Excellent,Bad,114000.0
+E02290,2022-01-25,2023-07-29,Research & Development,HR Specialist,Full-time,Female,50-60,Bachelor,Very High,Outstanding,Bad,107000.0
+E03431,2023-10-24,,Research & Development,Research Scientist,Full-time,Male,Below 20,Master,High,Outstanding,Better,69000.0
+E02068,2022-05-16,,Research & Development,Research Scientist,Full-time,Female,60+,Bachelor,High,Excellent,Best,79000.0
+E04835,2024-06-02,,Research & Development,Research Scientist,Full-time,Male,Below 20,College,High,Excellent,Better,72000.0
+E01445,2022-04-19,2024-10-15,Research & Development,HR Specialist,Contractor,Male,30-40,Doctor,High,Outstanding,Better,72000.0
+E01705,2022-09-15,,Research & Development,IT Analyst,Contractor,Female,60+,Doctor,High,Outstanding,Best,100000.0
+E03421,2023-11-10,2024-07-01,Research & Development,Manager,Contractor,Male,20-30,Bachelor,Medium,Low,Good,117000.0
+E04737,2024-09-18,,Research & Development,Manager,Contractor,Male,60+,Bachelor,Low,Good,Bad,125000.0
+E02757,2023-10-31,,Research & Development,Sales Executive,Full-time,Female,30-40,Master,Very High,Good,Best,80000.0
+E04378,2024-09-22,,Research & Development,HR Specialist,Full-time,Male,60+,Bachelor,High,Excellent,Good,80000.0
+E03220,2023-12-21,,Research & Development,Finance Director,Full-time,Male,20-30,Bachelor,High,Outstanding,Best,84000.0
+E03486,2023-06-08,2024-10-15,Research & Development,Manager,Contractor,Male,50-60,Master,High,Excellent,Better,102000.0
+E01621,2022-05-21,,Research & Development,Research Scientist,Full-time,Female,40-50,Master,Very High,Low,Good,113000.0
+E02191,2022-03-24,,Research & Development,HR Specialist,Full-time,Female,20-30,Below College,Very High,Good,Bad,111000.0
+E01479,2022-05-31,2024-11-10,Research & Development,Finance Director,Full-time,Male,60+,Below College,High,Good,Best,126000.0
+E00166,2020-10-22,,Sales,HR Specialist,Full-time,Male,50-60,Master,Very High,Excellent,Best,47000.0
+E04024,2024-12-05,,Sales,IT Analyst,Contractor,Male,40-50,Bachelor,Low,Good,Better,53000.0
+E02127,2022-11-07,,Sales,Research Scientist,Full-time,Male,40-50,Doctor,Low,Excellent,Best,86000.0
+E202500185,2025-01-25,,Sales,Sales Executive,Full-time,Male,40-50,College,Medium,Excellent,Best,63482.29134008871
+E03990,2024-01-12,,Sales,IT Analyst,Full-time,Male,60+,College,High,Excellent,Bad,83000.0
+E03821,2024-03-24,,Sales,IT Analyst,Contractor,Female,Below 20,Master,Very High,Outstanding,Bad,53000.0
+E02907,2023-08-01,,Sales,Sales Executive,Full-time,Other,60+,Master,Low,Low,Good,64000.0
+E02900,2023-02-27,,Sales,Sales Executive,Contractor,Female,60+,Master,Medium,Excellent,Good,114000.0
+E00448,2020-10-04,,Sales,Sales Executive,Full-time,Male,60+,Bachelor,Low,Excellent,Better,30000.0
+E02112,2022-01-27,2025-02-12,Sales,Manager,Contractor,Female,40-50,Below College,High,Low,Better,34000.0
+E00592,2020-11-26,2021-09-26,Sales,Manager,Contractor,Male,50-60,College,Very High,Outstanding,Good,99000.0
+E202500386,2025-06-16,,Sales,Sales Executive,Full-time,Male,50-60,Bachelor,Very High,Excellent,Best,99616.7413430416
+E03291,2023-02-06,,Sales,Research Scientist,Full-time,Female,50-60,Bachelor,Very High,Good,Best,36000.0
+E02323,2022-09-18,,Sales,Sales Executive,Contractor,Male,30-40,College,Low,Low,Good,98000.0
+E01586,2022-07-21,,Sales,IT Analyst,Contractor,Female,50-60,Bachelor,Medium,Outstanding,Bad,43000.0
+E03505,2023-12-26,2024-02-25,Sales,Manager,Contractor,Male,30-40,Bachelor,High,Low,Good,108000.0
+E03653,2024-10-22,,Sales,Sales Executive,Full-time,Male,20-30,Doctor,Low,Low,Good,43000.0
+E02788,2023-04-25,2023-12-15,Sales,Manager,Contractor,Female,Below 20,Doctor,Medium,Good,Better,44000.0
+E03278,2023-07-27,,Sales,Research Scientist,Full-time,Male,40-50,Doctor,High,Outstanding,Best,47000.0
+E04379,2024-03-31,,Sales,Research Scientist,Full-time,Female,50-60,Below College,High,Outstanding,Best,35000.0
+E03994,2024-07-18,,Sales,Sales Executive,Contractor,Female,50-60,College,Medium,Low,Best,98000.0
+E01670,2022-02-25,,Sales,IT Analyst,Contractor,Male,40-50,Below College,Low,Excellent,Better,89000.0
+E03367,2023-08-15,,Sales,Sales Executive,Contractor,Female,50-60,Bachelor,Low,Low,Better,52000.0
+E02512,2023-03-06,2023-10-23,Sales,Manager,Full-time,Male,60+,Master,Medium,Outstanding,Best,87000.0
+E04569,2024-08-05,2025-06-21,Sales,Manager,Full-time,Female,Below 20,Doctor,Low,Excellent,Best,116000.0
+E02239,2022-10-24,,Sales,Manager,Full-time,Female,30-40,Master,Medium,Good,Bad,87000.0
+E01712,2022-03-07,,Sales,IT Analyst,Contractor,Female,Below 20,Bachelor,Low,Outstanding,Good,39000.0
+E01346,2021-12-18,,Sales,Sales Executive,Contractor,Female,Below 20,Below College,High,Excellent,Good,34000.0
+E04573,2024-03-09,,Sales,IT Analyst,Contractor,Female,30-40,Doctor,Very High,Excellent,Best,64000.0
+E03628,2024-07-30,2024-12-09,Sales,IT Analyst,Full-time,Male,40-50,Master,Very High,Excellent,Best,73000.0
+E03919,2024-05-18,2025-04-12,Sales,Sales Executive,Full-time,Male,20-30,Bachelor,Low,Outstanding,Better,84000.0
+E00924,2021-03-04,2022-12-02,Sales,HR Specialist,Contractor,Male,Below 20,Master,High,Good,Best,54000.0
+E04315,2024-08-10,,Sales,IT Analyst,Contractor,Other,30-40,Doctor,Medium,Excellent,Bad,106000.0
+E01675,2022-02-06,2024-02-16,Sales,IT Analyst,Full-time,Male,20-30,Bachelor,Low,Outstanding,Good,34000.0
+E03960,2024-02-06,,Sales,HR Specialist,Contractor,Female,60+,Bachelor,High,Outstanding,Good,70000.0
+E01286,2021-07-12,,Sales,Sales Executive,Full-time,Male,40-50,Bachelor,High,Low,Good,87000.0
+E04135,2024-09-01,,Sales,Sales Executive,Full-time,Male,20-30,Below College,Very High,Outstanding,Bad,57000.0
+E02960,2023-09-21,,Sales,Finance Director,Contractor,Male,50-60,College,Very High,Good,Bad,97000.0
+E03645,2024-08-11,,Sales,Research Scientist,Contractor,Male,50-60,Bachelor,Medium,Excellent,Better,99000.0
+E00571,2020-06-19,,Sales,IT Analyst,Contractor,Male,60+,Below College,High,Low,Good,57000.0
+E03272,2023-08-13,,Sales,Finance Director,Full-time,Female,Below 20,Master,Medium,Outstanding,Good,54000.0
+E202500079,2025-10-06,,Sales,Sales Executive,Contractor,Female,50-60,College,High,Outstanding,Bad,110437.47445445198
+E01444,2022-03-23,,Sales,IT Analyst,Contractor,Female,50-60,Bachelor,Very High,Low,Bad,31000.0
+E03280,2023-05-03,,Sales,Finance Director,Full-time,Male,60+,Doctor,Low,Outstanding,Good,33000.0
+E03577,2023-03-22,,Sales,Research Scientist,Full-time,Female,50-60,Master,High,Excellent,Bad,64000.0
+E01899,2022-03-15,2023-12-02,Sales,Manager,Contractor,Female,50-60,Doctor,Very High,Good,Best,79000.0
+E03218,2023-03-18,,Sales,IT Analyst,Full-time,Female,40-50,Below College,High,Outstanding,Best,41000.0
+E01993,2022-12-17,2023-04-23,Sales,HR Specialist,Contractor,Male,20-30,Master,Very High,Good,Good,56000.0
+E03024,2023-01-17,2023-09-01,Sales,Finance Director,Full-time,Female,30-40,Doctor,Low,Excellent,Good,50000.0
+E04625,2024-10-16,2025-05-29,Sales,IT Analyst,Contractor,Other,40-50,Master,High,Low,Bad,76000.0
+E00456,2020-06-10,,Sales,IT Analyst,Full-time,Male,60+,Master,High,Good,Better,120000.0
+E04545,2024-05-28,,Sales,Manager,Full-time,Female,60+,Bachelor,Medium,Excellent,Better,41000.0
+E01498,2022-07-19,2023-01-07,Sales,Manager,Contractor,Female,Below 20,Below College,Medium,Excellent,Bad,41000.0
+E01513,2022-04-01,,Sales,Manager,Contractor,Other,30-40,Bachelor,Very High,Low,Best,120000.0
+E02604,2023-10-08,,Sales,Manager,Full-time,Female,40-50,Master,High,Outstanding,Bad,86000.0
+E04889,2024-10-21,,Sales,Manager,Full-time,Female,Below 20,Bachelor,Medium,Low,Bad,67000.0
+E00384,2020-10-23,,Sales,Finance Director,Full-time,Male,50-60,Doctor,Very High,Good,Good,83000.0
+E03592,2023-03-18,2024-08-17,Sales,IT Analyst,Full-time,Female,30-40,Master,High,Outstanding,Bad,37000.0
+E01913,2022-12-21,,Sales,Finance Director,Full-time,Other,Below 20,Bachelor,Low,Low,Bad,79000.0
+E02545,2023-11-29,,Sales,HR Specialist,Contractor,Female,60+,Master,Very High,Excellent,Good,50000.0
+E00907,2021-08-08,,Sales,HR Specialist,Contractor,Male,30-40,Master,Very High,Outstanding,Better,98000.0
+E01659,2022-03-09,,Sales,IT Analyst,Full-time,Female,60+,Doctor,Medium,Outstanding,Bad,93000.0
+E03809,2024-02-27,2024-12-01,Sales,Manager,Full-time,Female,20-30,College,Low,Low,Good,101000.0
+E00321,2020-12-15,2021-11-10,Sales,Research Scientist,Contractor,Male,20-30,College,High,Excellent,Best,88000.0
+E03325,2023-05-26,,Sales,Finance Director,Full-time,Male,20-30,Doctor,High,Outstanding,Bad,80000.0
+E03455,2023-02-11,2024-02-15,Sales,HR Specialist,Contractor,Other,60+,Master,High,Outstanding,Better,31000.0
+E01830,2022-08-03,,Sales,HR Specialist,Full-time,Female,30-40,Master,Medium,Low,Better,78000.0
+E01795,2022-07-31,2023-10-08,Sales,Finance Director,Full-time,Female,30-40,Doctor,Medium,Outstanding,Better,113000.0
+E00112,2020-10-14,,Sales,Research Scientist,Contractor,Female,50-60,College,Low,Good,Good,104000.0
+E03247,2023-05-24,,Sales,Research Scientist,Contractor,Male,40-50,Bachelor,Very High,Outstanding,Bad,45000.0
+E04238,2024-08-17,,Sales,IT Analyst,Full-time,Male,Below 20,Doctor,High,Outstanding,Best,58000.0
+E03441,2023-09-07,,Sales,Sales Executive,Contractor,Female,20-30,Doctor,Very High,Outstanding,Good,88000.0
+E01066,2021-11-12,,Sales,HR Specialist,Contractor,Male,20-30,Bachelor,Low,Good,Better,73000.0
+E01484,2022-05-16,,Sales,Finance Director,Contractor,Female,30-40,Doctor,Low,Outstanding,Better,117000.0
+E01725,2022-05-25,,Sales,HR Specialist,Full-time,Male,60+,Below College,High,Good,Better,118000.0
+E03048,2023-01-12,,Sales,Sales Executive,Contractor,Female,40-50,Below College,Medium,Outstanding,Bad,112000.0
+E02401,2023-07-10,2024-02-28,Sales,Sales Executive,Contractor,Female,60+,Doctor,Very High,Outstanding,Bad,110000.0
+E02649,2023-04-30,2025-09-23,Sales,Sales Executive,Contractor,Female,Below 20,Bachelor,Medium,Outstanding,Good,52000.0
+E03816,2024-10-21,,Sales,Finance Director,Full-time,Male,40-50,College,High,Outstanding,Better,32000.0
+E01649,2022-04-07,,Sales,IT Analyst,Contractor,Male,60+,Bachelor,High,Excellent,Better,102000.0
+E02996,2023-03-18,,Sales,HR Specialist,Contractor,Male,60+,College,Medium,Excellent,Bad,57000.0
+E03926,2024-10-01,,Sales,Manager,Contractor,Female,20-30,College,High,Outstanding,Best,85000.0
+E01428,2022-03-14,,Sales,Finance Director,Full-time,Other,50-60,Below College,Very High,Excellent,Good,46000.0
+E01814,2022-10-06,2025-12-16,Sales,Manager,Full-time,Female,Below 20,Below College,Low,Excellent,Good,75000.0
+E00262,2020-12-03,,Sales,Research Scientist,Contractor,Other,60+,Master,High,Low,Better,48000.0
+E03569,2023-03-06,,Sales,IT Analyst,Full-time,Male,40-50,Doctor,Medium,Low,Better,35000.0
+E01491,2022-08-31,2023-06-28,Sales,Manager,Contractor,Female,60+,Master,Medium,Good,Good,71000.0
+E03065,2023-07-03,,Sales,Research Scientist,Full-time,Male,20-30,Doctor,Medium,Excellent,Good,104000.0
+E00409,2020-10-21,2021-12-13,Sales,Finance Director,Contractor,Male,50-60,College,High,Low,Good,67000.0
+E00063,2020-04-09,,Sales,IT Analyst,Contractor,Male,60+,Doctor,Medium,Excellent,Bad,62000.0
+E02613,2023-09-29,2025-06-04,Sales,Manager,Full-time,Female,30-40,Bachelor,High,Excellent,Bad,59000.0
+E01242,2021-08-24,2025-06-05,Sales,Manager,Full-time,Male,30-40,College,High,Outstanding,Better,70000.0
+E02910,2023-09-16,2025-02-21,Sales,IT Analyst,Contractor,Female,60+,College,Very High,Good,Good,63000.0
+E04924,2024-04-29,,Sales,Finance Director,Full-time,Male,30-40,College,Very High,Outstanding,Good,77000.0
+E02379,2022-09-21,2024-05-21,Sales,IT Analyst,Contractor,Female,60+,College,Very High,Good,Best,76000.0
+E01856,2022-06-17,2025-09-23,Sales,Manager,Contractor,Female,Below 20,College,Low,Low,Good,85000.0
+E02689,2023-12-13,,Sales,Sales Executive,Full-time,Male,40-50,Doctor,Medium,Excellent,Bad,110000.0
+E01493,2022-06-26,,Sales,Finance Director,Contractor,Female,60+,Doctor,Very High,Excellent,Bad,110000.0
+E02026,2022-11-28,2024-05-15,Sales,Finance Director,Contractor,Female,50-60,Bachelor,Medium,Excellent,Better,85000.0
+E00494,2020-03-23,,Sales,Sales Executive,Contractor,Female,40-50,Doctor,High,Low,Bad,85000.0
+E02253,2022-06-03,,Sales,Sales Executive,Contractor,Male,50-60,Bachelor,Very High,Outstanding,Good,112000.0
+E02177,2022-04-18,,Sales,Manager,Full-time,Female,20-30,Doctor,Low,Good,Bad,80000.0
+E02657,2023-07-29,,Sales,Manager,Contractor,Male,Below 20,Doctor,High,Outstanding,Better,41000.0
+E00573,2020-05-02,,Sales,Sales Executive,Contractor,Female,60+,Bachelor,High,Excellent,Good,88000.0
+E00752,2021-08-08,,Sales,HR Specialist,Full-time,Male,40-50,Doctor,Low,Excellent,Better,93000.0
+E01207,2021-09-02,,Sales,Sales Executive,Full-time,Male,Below 20,College,High,Low,Best,43000.0
+E00883,2021-12-27,2022-04-19,Sales,Manager,Full-time,Female,Below 20,Below College,Low,Outstanding,Better,93000.0
+E01073,2021-08-30,,Sales,Manager,Contractor,Female,40-50,Doctor,Low,Low,Good,87000.0
+E02108,2022-12-14,2025-05-12,Sales,Sales Executive,Contractor,Male,Below 20,Master,Low,Excellent,Best,100000.0
+E04741,2024-10-28,,Sales,HR Specialist,Full-time,Male,Below 20,Below College,Medium,Good,Best,115000.0
+E02380,2022-04-21,2025-04-24,Sales,IT Analyst,Full-time,Male,20-30,Bachelor,Low,Outstanding,Best,65000.0
+E03156,2023-10-31,,Sales,IT Analyst,Full-time,Male,50-60,Bachelor,Low,Low,Bad,86000.0
+E04736,2024-02-27,,Sales,Finance Director,Contractor,Female,20-30,College,Low,Good,Good,119000.0
+E03298,2023-10-20,,Sales,Research Scientist,Full-time,Female,60+,Below College,Medium,Excellent,Good,48000.0
+E02441,2023-04-02,,Sales,Sales Executive,Contractor,Male,60+,Bachelor,Very High,Low,Bad,40000.0
+E00711,2021-11-14,,Sales,Finance Director,Contractor,Male,40-50,College,High,Outstanding,Good,117000.0
+E01382,2021-07-22,,Sales,HR Specialist,Full-time,Female,20-30,Doctor,Medium,Excellent,Better,66000.0
+E00541,2020-05-21,,Sales,Sales Executive,Full-time,Other,30-40,Bachelor,Low,Excellent,Bad,92000.0
+E02504,2023-01-27,,Sales,Finance Director,Contractor,Other,Below 20,Doctor,High,Good,Best,96000.0
+E04905,2024-01-22,,Sales,Research Scientist,Full-time,Male,60+,Bachelor,Very High,Low,Best,79000.0
+E01468,2022-05-22,,Sales,Manager,Contractor,Female,60+,College,Low,Excellent,Bad,118000.0
+E04845,2024-01-14,,Sales,Manager,Contractor,Female,40-50,College,Low,Excellent,Bad,86000.0
+E00417,2020-12-23,,Sales,Finance Director,Contractor,Female,60+,Bachelor,Very High,Low,Good,58000.0
+E00722,2021-11-25,,Sales,IT Analyst,Full-time,Female,40-50,College,Low,Outstanding,Best,89000.0
+E02389,2022-05-16,2024-12-20,Sales,Manager,Contractor,Male,60+,College,Low,Low,Good,106000.0
+E202500395,2025-02-01,,Sales,Sales Executive,Contractor,Female,30-40,Doctor,Medium,Low,Better,107729.87261726896
+E00436,2020-04-03,2021-01-14,Sales,Research Scientist,Full-time,Male,30-40,Doctor,Very High,Good,Good,87000.0
+E02737,2023-10-14,,Sales,HR Specialist,Contractor,Other,Below 20,Master,Medium,Low,Better,50000.0
+E03154,2023-08-24,,Sales,Research Scientist,Full-time,Female,30-40,Below College,Very High,Excellent,Better,103000.0
+E04616,2024-04-25,2024-12-20,Sales,IT Analyst,Full-time,Female,Below 20,Below College,High,Low,Bad,77000.0
+E00217,2020-01-22,2022-11-20,Sales,Finance Director,Full-time,Female,50-60,Doctor,Low,Good,Good,54000.0
+E00156,2020-03-21,,Sales,Sales Executive,Contractor,Female,30-40,Doctor,Medium,Low,Better,113000.0
+E03756,2024-07-23,,Sales,Manager,Contractor,Female,30-40,Below College,Low,Outstanding,Good,94000.0
+E00285,2020-01-26,2022-08-30,Sales,Manager,Full-time,Male,Below 20,Master,Very High,Good,Good,104000.0
+E02878,2023-02-03,,Sales,Manager,Contractor,Female,20-30,Bachelor,Medium,Excellent,Better,34000.0
+E04823,2024-03-24,,Sales,HR Specialist,Full-time,Female,30-40,Master,Medium,Outstanding,Better,56000.0
+E02584,2023-12-30,2025-12-10,Sales,HR Specialist,Full-time,Female,20-30,College,Low,Outstanding,Bad,88000.0
+E03193,2023-03-14,2024-10-28,Sales,Sales Executive,Full-time,Other,50-60,Master,Low,Good,Better,42000.0
+E01053,2021-10-01,2025-03-14,Sales,Manager,Full-time,Male,30-40,Doctor,Low,Outstanding,Better,64000.0
+E00031,2020-12-19,,Sales,IT Analyst,Contractor,Male,40-50,Bachelor,Low,Excellent,Good,79000.0
+E03634,2024-08-13,,Sales,IT Analyst,Contractor,Female,50-60,Below College,High,Low,Good,93000.0
+E04117,2024-06-07,,Sales,Manager,Full-time,Male,40-50,Below College,Low,Outstanding,Good,83000.0
+E02009,2022-07-16,2024-03-16,Sales,Research Scientist,Contractor,Female,40-50,College,Low,Good,Better,88000.0
+E03583,2023-08-09,,Sales,HR Specialist,Contractor,Female,60+,College,Very High,Low,Bad,52000.0
+E01059,2021-09-11,2024-08-03,Sales,Research Scientist,Full-time,Male,40-50,Below College,High,Low,Best,43000.0
+E03318,2023-06-27,,Sales,IT Analyst,Full-time,Female,40-50,Below College,High,Good,Bad,81000.0
+E00310,2020-03-05,2020-10-11,Sales,Manager,Contractor,Female,60+,Bachelor,High,Excellent,Bad,119000.0
+E00341,2020-10-20,,Sales,Finance Director,Contractor,Male,60+,Below College,High,Good,Best,43000.0
+E03079,2023-05-25,,Sales,Sales Executive,Contractor,Female,30-40,Below College,Very High,Low,Bad,115000.0
+E02262,2022-09-01,2023-01-26,Sales,Sales Executive,Full-time,Male,Below 20,Bachelor,Low,Outstanding,Best,37000.0
+E00532,2020-01-08,,Sales,Research Scientist,Contractor,Other,60+,Master,High,Good,Good,84000.0
+E02425,2023-07-18,,Sales,Research Scientist,Full-time,Female,50-60,Doctor,Very High,Low,Better,78000.0
+E01619,2022-11-28,2024-07-12,Sales,Research Scientist,Contractor,Male,40-50,Master,Low,Low,Bad,59000.0
+E01008,2021-10-11,,Sales,Sales Executive,Full-time,Male,50-60,Master,Very High,Excellent,Better,95000.0
+E01009,2021-08-28,2025-09-09,Sales,HR Specialist,Contractor,Female,30-40,College,Low,Good,Good,113000.0
+E03579,2023-05-07,,Sales,Manager,Contractor,Male,30-40,College,Low,Excellent,Bad,32000.0
+E01090,2021-06-08,,Sales,IT Analyst,Full-time,Female,40-50,Bachelor,Very High,Low,Better,43000.0
+E00837,2021-11-21,2023-05-26,Sales,HR Specialist,Contractor,Male,Below 20,College,Very High,Low,Best,115000.0
+E02473,2023-01-27,,Sales,Research Scientist,Full-time,Male,20-30,Below College,Low,Low,Bad,48000.0
+E202500189,2025-11-07,,Sales,Research Scientist,Full-time,Male,50-60,Doctor,Low,Excellent,Best,65324.20912187532
+E02990,2023-10-24,2025-07-29,Sales,Sales Executive,Contractor,Male,60+,Below College,High,Low,Good,53000.0
+E00358,2020-08-19,,Sales,Research Scientist,Full-time,Male,60+,Doctor,High,Good,Better,42000.0
+E04996,2024-05-04,,Sales,Sales Executive,Contractor,Male,50-60,Bachelor,Very High,Excellent,Better,102000.0
+E00369,2020-11-28,2023-01-05,Sales,Sales Executive,Contractor,Female,Below 20,College,Very High,Low,Best,70000.0
+E02319,2022-09-18,,Sales,Sales Executive,Contractor,Female,60+,Bachelor,Very High,Low,Good,75000.0
+E00067,2020-06-01,,Sales,IT Analyst,Contractor,Female,50-60,Below College,Medium,Good,Good,119000.0
+E04849,2024-11-07,,Sales,Sales Executive,Full-time,Male,50-60,College,High,Good,Better,47000.0
+E01266,2021-04-27,2023-02-23,Sales,Research Scientist,Full-time,Female,20-30,Master,High,Excellent,Better,84000.0
+E04596,2024-01-18,2025-05-19,Sales,Sales Executive,Full-time,Male,50-60,Doctor,Low,Low,Better,118000.0
+E04679,2024-04-23,,Sales,Finance Director,Contractor,Male,20-30,Bachelor,Very High,Outstanding,Bad,85000.0
+E02951,2023-02-14,,Sales,IT Analyst,Full-time,Male,40-50,Below College,Medium,Outstanding,Good,70000.0
+E04622,2024-01-15,,Sales,HR Specialist,Contractor,Male,20-30,College,Very High,Outstanding,Bad,41000.0
+E01530,2022-04-24,2025-10-15,Sales,Research Scientist,Full-time,Male,Below 20,Bachelor,Low,Outstanding,Good,50000.0
+E02364,2022-03-30,,Sales,Manager,Full-time,Male,40-50,Doctor,Low,Good,Best,47000.0
+E02269,2022-01-04,,Sales,Finance Director,Full-time,Female,40-50,Doctor,Low,Outstanding,Better,69000.0
+E04654,2024-10-19,,Sales,Research Scientist,Contractor,Male,40-50,College,Very High,Low,Bad,70000.0
+E00960,2021-12-04,,Sales,Finance Director,Contractor,Male,50-60,Master,High,Good,Bad,62000.0
+E04037,2024-07-04,,Sales,Manager,Contractor,Other,30-40,Below College,Low,Excellent,Good,94000.0
+E03295,2023-05-03,2023-08-11,Sales,Finance Director,Contractor,Other,50-60,College,Low,Outstanding,Good,111000.0
+E03969,2024-03-13,,Sales,Sales Executive,Contractor,Male,30-40,Master,Medium,Outstanding,Good,70000.0
+E01316,2021-12-05,,Sales,IT Analyst,Full-time,Male,40-50,College,Medium,Excellent,Best,93000.0
+E01507,2022-12-09,,Sales,Research Scientist,Full-time,Male,40-50,Below College,Medium,Good,Best,72000.0
+E00024,2020-02-11,,Sales,Finance Director,Contractor,Female,40-50,Below College,Medium,Low,Bad,36000.0
+E02336,2022-01-04,,Sales,Manager,Contractor,Female,60+,Below College,Very High,Good,Better,81000.0
+E02690,2023-04-23,,Sales,HR Specialist,Contractor,Female,50-60,Below College,Low,Low,Good,55000.0
+E02645,2023-12-28,2025-09-21,Sales,Finance Director,Full-time,Female,20-30,Bachelor,Low,Outstanding,Best,53000.0
+E00992,2021-05-29,,Sales,Sales Executive,Full-time,Male,Below 20,Bachelor,High,Low,Better,53000.0
+E01528,2022-04-10,,Sales,Research Scientist,Contractor,Female,30-40,Master,Medium,Excellent,Bad,111000.0
+E03895,2024-03-19,,Sales,HR Specialist,Full-time,Male,50-60,Doctor,High,Outstanding,Better,93000.0
+E04970,2024-04-05,2025-02-01,Sales,Research Scientist,Contractor,Female,50-60,Bachelor,Low,Excellent,Better,71000.0
+E01677,2022-08-11,2025-07-23,Sales,Research Scientist,Contractor,Female,60+,College,High,Good,Good,70000.0
+E01908,2022-02-26,,Sales,Finance Director,Full-time,Female,Below 20,Master,High,Excellent,Better,79000.0
+E04482,2024-12-10,2025-12-31,Sales,Finance Director,Contractor,Male,40-50,Doctor,High,Low,Better,84000.0
+E04419,2024-01-08,,Sales,Research Scientist,Contractor,Female,20-30,Master,Low,Outstanding,Bad,97000.0
+E04239,2024-05-27,,Sales,Manager,Full-time,Male,20-30,Below College,Medium,Excellent,Best,74000.0
+E01853,2022-02-04,,Sales,HR Specialist,Contractor,Male,60+,Master,Very High,Good,Best,100000.0
+E02854,2023-06-15,2025-08-22,Sales,Sales Executive,Full-time,Male,20-30,Doctor,Low,Outstanding,Bad,52000.0
+E04283,2024-10-02,,Sales,Research Scientist,Full-time,Female,40-50,Doctor,High,Good,Best,111000.0
+E04151,2024-11-23,,Sales,Sales Executive,Full-time,Female,20-30,Doctor,Very High,Low,Best,46000.0
+E03935,2024-09-10,,Sales,HR Specialist,Full-time,Female,Below 20,Below College,Very High,Excellent,Better,30000.0
+E01713,2022-07-28,,Sales,Sales Executive,Contractor,Male,30-40,Doctor,Medium,Outstanding,Best,48000.0
+E202500249,2025-02-07,,Sales,IT Analyst,Contractor,Female,60+,Master,Very High,Low,Bad,91161.82479539212
+E02463,2023-09-25,2024-02-09,Sales,Research Scientist,Full-time,Male,30-40,Bachelor,Very High,Good,Good,99000.0
+E03223,2023-03-24,,Sales,Research Scientist,Contractor,Female,Below 20,Bachelor,Low,Low,Best,32000.0
+E04356,2024-07-03,,Sales,HR Specialist,Full-time,Male,30-40,Below College,High,Excellent,Good,98000.0
+E04753,2024-09-10,2025-02-27,Sales,HR Specialist,Contractor,Male,60+,College,Low,Outstanding,Good,79000.0
+E01967,2022-12-26,,Sales,Research Scientist,Contractor,Female,50-60,Bachelor,High,Excellent,Bad,40000.0
+E00570,2020-08-25,,Sales,Manager,Contractor,Female,30-40,Master,Low,Low,Best,109000.0
+E02911,2023-04-05,,Sales,Research Scientist,Full-time,Female,40-50,Below College,Low,Outstanding,Bad,117000.0
+E00293,2020-04-13,,Sales,HR Specialist,Full-time,Male,Below 20,Below College,Medium,Good,Bad,61000.0
+E00636,2021-12-06,2025-02-23,Sales,Sales Executive,Contractor,Female,30-40,Doctor,Very High,Excellent,Good,35000.0
+E202500065,2025-12-12,,Sales,IT Analyst,Full-time,Male,40-50,Bachelor,Medium,Outstanding,Best,119124.53377947136
+E00123,2020-11-17,,Sales,Research Scientist,Full-time,Female,60+,Doctor,High,Excellent,Better,98000.0
