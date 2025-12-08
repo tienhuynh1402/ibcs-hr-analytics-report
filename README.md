@@ -1,9 +1,4 @@
 # HR Analytics Dashboard - TechVision Solutions
-![POWER BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)  ![STATUS](https://img.shields.io/badge/Status-Complete-4CAF50?style=for-the-badge)
-
-> IBCS-styled HR Insights Dashboard built in Power BI. Features headcount, hiring, turnover, salary trends, demographic analysis, and performance metrics across 2020–2025.
-
-[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjk0YjIyMDItNjhjMi00ZTU5LTljZWMtYjk0NzA4NGQ5OTc5IiwidCI6ImJlODMyOWE3LTcyMTgtNDlhMy05YWMxLWQ3Yjk1NDU2M2YzOSIsImMiOjEwfQ%3D%3D) | [Documentation](./Documentation/)
 
 ## Table of Contents
 1. [Client Background](#client-background)
@@ -50,7 +45,7 @@ The analysis revealed that TechVision's hypergrowth phase (2020-2022) was unsust
 ## Dashboard Analysis
 
 ### Figure 1: 2020 Overview - Foundation Year
-![2020 Dashboard](Image-2)
+![2020 Dashboard](screenshots/2020_Headcounts.png)
 
 The 2020 dashboard shows TechVision's early stage with 126 employees. Notable metrics include:
 - **Hire Rate: 102.4%** - The company essentially doubled its size
@@ -58,7 +53,7 @@ The 2020 dashboard shows TechVision's early stage with 126 employees. Notable me
 - **Terminations: Only 3** - Exceptional retention rate of 97.6%
 
 ### Figure 2: 2021 Overview - Initial Growth
-![2021 Dashboard](Image-5)
+![2021 Dashboard](screenshots/2021_Headcounts.png)
 
 2021 marked significant expansion:
 - **Headcount: 271** (115.1% YoY growth)
@@ -66,7 +61,7 @@ The 2020 dashboard shows TechVision's early stage with 126 employees. Notable me
 - **Department Distribution**: Marketing grew by 233%, IT by 160%
 
 ### Figure 3: 2022 Overview - Scaling Phase
-![2022 Dashboard](Image-4)
+![2022 Dashboard](screenshots/2022_Headcounts.png)
 
 Continued expansion with more structured growth:
 - **Headcount: 452** (66.8% YoY growth)
@@ -74,7 +69,7 @@ Continued expansion with more structured growth:
 - **Education Levels**: 73% bachelor's degree or higher
 
 ### Figure 4: 2023 Overview - Strategic Correction
-![2023 Dashboard](Image-1)
+![2023 Dashboard](screenshots/2023_Headcounts.png)
 
 The pivotal year showing organizational maturation:
 - **Headcount: 813** (slower 2.8% growth)
@@ -83,12 +78,21 @@ The pivotal year showing organizational maturation:
 - **Salary Optimization**: Reduced to $75.09M despite larger workforce
 
 ### Figure 5: 2024 Overview - Stabilization
-![2024 Dashboard](Image-3)
+![2024 Dashboard](screenshots/2024_Headcounts.png)
 
 Return to controlled growth:
 - **Headcount: 836** (33.5% YoY growth)
 - **Hires: 267** - Resumed strategic hiring
 - **Termination Rate: 6.8%** - Normalized from 2023 peak
+
+### Figure 6: 2025 Overview - Current Performance
+![2025 Dashboard](screenshots/2025_Headcounts.png)
+
+Current year showing sustainable operations:
+- **Headcount: 813** (-23.0% adjustment)
+- **Controlled hiring**: 92 new employees
+- **High termination rate**: 14.1% indicating continued optimization
+- **Focus on efficiency**: Maintaining productivity with leaner workforce
 
 ---
 
@@ -144,8 +148,9 @@ Working on this project taught me that numbers tell stories, but context brings 
 ---
 
 ## Contact
-For questions or collaboration opportunities, please reach out via GitHub issues.
 
-**Dashboard Created By**: [Your Name]  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tien-huynh-14021990/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tienhuynh1402/) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tienhuynh.com) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huynhhatien@gmail.com)
+
+**Dashboard Created By**: Tien Huynh  
 **Date**: December 2025  
 **Tools**: Power BI, DAX, Excel
