@@ -3,7 +3,7 @@
 
 > IBCS-styled HR Insights Dashboard built in Power BI. Features headcount, hiring, turnover, salary trends, demographic analysis, and performance metrics across 2020–2025.
 
-[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjk0YjIyMDItNjhjMi00ZTU5LTljZWMtYjk0NzA4NGQ5OTc5IiwidCI6ImJlODMyOWE3LTcyMTgtNDlhMy05YWMxLWQ3Yjk1NDU2M2YzOSIsImMiOjEwfQ%3D%3D) | [Documentation](./Documentation/Documentation_HR_Dashboard.xlsm)
+[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjk0YjIyMDItNjhjMi00ZTU5LTljZWMtYjk0NzA4NGQ5OTc5IiwidCI6ImJlODMyOWE3LTcyMTgtNDlhMy05YWMxLWQ3Yjk1NDU2M2YzOSIsImMiOjEwfQ%3D%3D) | [Documentation](./Documentation/)
 
 ## Table of Contents
 1. [Client Background](#client-background)
