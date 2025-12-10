@@ -1,5 +1,7 @@
 # HR Analytics Dashboard - TechVision Solutions
+**[ View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjk0YjIyMDItNjhjMi00ZTU5LTljZWMtYjk0NzA4NGQ5OTc5IiwidCI6ImJlODMyOWE3LTcyMTgtNDlhMy05YWMxLWQ3Yjk1NDU2M2YzOSIsImMiOjEwfQ%3D%3D)** | **[ Documentation](./documentation/)**
 
+---
 ## Table of Contents
 1. [Client Background](#client-background)
 2. [Executive Summary](#executive-summary)
